@@ -1,0 +1,1716 @@
+<!DOCTYPE html>
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Gjerrigknark.com - gratis ting, varepr&oslash;ver, gavekort, rabatter, konkurranser og mye mer</title>
+<meta name="description" content="Her er Norges st&oslash;rste side innen alt som er gratis. Her finner du gratis varepr&oslash;ver, gavekort, rabatter, konkurranser, spill, programvare og for&oslash;vrig linker til alt som er gratis p&aring; nett." />
+<meta name="keywords" content="gjerrigknark.com, gjerrigknark, gjerrigknarken, gratis, spare, sparing, konkurranser, internett, html, hjemmeside, tjene, penger, webmaster, gratislinker, varepr&oslash;ve, varepr&oslash;ver, produkter, testprodukter, gratise, mobil, sms, ringetoner, nett tv, rabatter, gavekort"/>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1"/>
+<meta property="article:publisher" content="https://www.facebook.com/gjerrigk"/>
+<!-- Google Authorship and Publisher Markup -->
+<link rel="author" href="https://plus.google.com/103627759919744690014/posts"/>
+<link rel="publisher" href="https://plus.google.com/+Gjerrigknark/"/>
+<!-- Schema.org markup for Google+ -->
+<meta itemprop="name" content="Gjerrigknark.com - gratis ting, varepr&oslash;ver, gavekort, rabatter, konkurranser og mye mer">
+<meta itemprop="description" content="Her er Norges st&oslash;rste side innen alt som er gratis. Her finner du gratis varepr&oslash;ver, gavekort, rabatter, konkurranser, spill, programvare og for&oslash;vrig linker til alt som er gratis p&aring; nett.">
+<meta itemprop="image" content="http://www.gjerrigknark.com/images/gjerrigknarken-sjol.png">
+<!-- Twitter Card data -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@Gjerrigknarken">
+<meta name="twitter:title" content="Gjerrigknark.com - gratis ting, varepr&oslash;ver, gavekort, rabatter, konkurranser og mye mer">
+<meta name="twitter:description" content="Her er Norges st&oslash;rste side innen alt som er gratis. Her finner du gratis varepr&oslash;ver, gavekort, rabatter, konkurranser, spill, programvare og for&oslash;vrig linker til alt som er gratis">
+<meta name="twitter:creator" content="@Gjerrigknarken">
+<!-- Twitter summary card with large image must be at least 280x150px -->
+<meta name="twitter:image:src" content="http://www.gjerrigknark.com/images/gjerrigknarken-sjol.png">
+<meta property="twitter:account_id" content="4503599628363347" />
+<link rel="canonical" href="http://www.gjerrigknark.com"/>
+<meta name="verify-v1" content="60+fqkvOw4ch+viu+1j/Xl2NwWj0YOFlZD1WOFI6ZCs=" />
+<meta name="verification" content="abdb2078f220253606034e2a63731006" />
+<link rel="stylesheet" type="text/css" media="screen" href="//www.gjerrigknark.com/css/base.css"/>
+<link rel="stylesheet" type="text/css" media="screen" href="//www.gjerrigknark.com/libs/jquery-fancybox/css/jquery.fancybox-1.3.4.css"/>
+<link rel="stylesheet" type="text/css" media="screen" href="//www.gjerrigknark.com/libs/flexdropdown/flexdropdown.css"/>
+<link rel="stylesheet" type="text/css" media="screen" href="//www.gjerrigknark.com/css/ui-custom-theme/jquery-ui-1.7.2.custom.css"/>
+<script type="text/javascript" src="//www.gjerrigknark.com/libs/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="//www.gjerrigknark.com/libs/jquery-ui-1.7.2.custom.min.js"></script>
+<script type="text/javascript" src="//www.gjerrigknark.com/libs/flexdropdown/flexdropdown3.js"></script>
+<script type="text/javascript" src="//www.gjerrigknark.com/libs/jquery-validation/jquery.validate.pack.js"></script>
+<script type="text/javascript" src="//www.gjerrigknark.com/libs/jquery-validation/additional-methods.js"></script>
+<script type="text/javascript" src="//www.gjerrigknark.com/libs/jquery-validation/messages_no.js"></script>
+<script type="text/javascript" src="//www.gjerrigknark.com/libs/jquery-fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+<script type="text/javascript" src="//www.gjerrigknark.com/libs/jquery-tag-editor/jquery.tag.editor.js"></script>
+
+
+<link rel="image_src" href="http://www.gjerrigknark.com/images/gjerrigknarken-sjol.png" />
+<script type="text/javascript" src="/libs/subid/ref.js"></script>
+<meta property="og:title" content="Gjerrigknark.com - gratis ting, varepr&oslash;ver, gavekort, rabatter, konkurranser og mye mer"/>
+<meta property="og:description" content="Her er Norges st&oslash;rste side innen alt som er gratis. Her finner du gratis varepr&oslash;ver, gavekort, rabatter, konkurranser, spill, programvare og for&oslash;vrig linker til alt som er gratis p&aring; nett."/>
+<meta property="og:site_name" content="gjerrigknark.com"/>
+<meta property="og:type" content="website"/>
+<meta property="fb:app_id" content="225079025754"/>
+<meta property="og:url" content="http://www.gjerrigknark.com"/>
+<meta property="og:image" content="http://www.gjerrigknark.com/images/gjerrigknarken-sjol.png"/>
+<meta property="fb:admins" content="739600882"/>
+</head>
+<body>
+<div id="fb-root"></div>
+				<script>
+				  window.fbAsyncInit = function() {
+					FB.init({appId: '225079025754', status: true, cookie: true,
+							 xfbml: true});
+				  };
+				  (function() {
+					var e = document.createElement('script'); e.async = true;
+					e.src = document.location.protocol +
+					  '//connect.facebook.net/nb_NO/all.js';
+					document.getElementById('fb-root').appendChild(e);
+				  }());
+				</script><!--
+Her er Norges st&oslash;rste side innen alt som er gratis. Her finner du gratis varepr&oslash;ver, gavekort, rabatter, konkurranser, spill, programvare og for&oslash;vrig linker til alt som er gratis p&aring; nett.
+-->
+<img title="Gjerrigknark.com - gratis ting, varepr&oslash;ver, gavekort, rabatter, konkurranser og mye mer" src="//www.gjerrigknark.com/images/gjerrigknarken-sjol.png" style="display:none"/>
+<script type="text/javascript">
+		
+		  var _gaq = _gaq || [];
+		  _gaq.push(['_setAccount', 'UA-511523-2']);
+		  _gaq.push(['_trackPageview']);
+		
+		  (function() {
+		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+		
+		</script>
+<script type='text/javascript' src='//www.gjerrigknark.com/libs/jquery-form/jquery.form.js'>
+<script type='text/javascript' src='//www.gjerrigknark.com/libs/jquery-expose/jquery.expose.js'>
+
+
+
+<script type="text/javascript">
+	var loader = $('<div id="loader"><img style="z-index: 99999" src="//www.gjerrigknark.com/images/loading.gif" alt="laster..." /></div>')
+		.css({position: "absolute", top: "50%", left: "50%"})
+		.appendTo("body")
+		.hide();
+	$().ajaxStart(function() {
+		loader.show();
+	}).ajaxStop(function() {
+		loader.hide();
+	}).ajaxError(function(a, b, e) {
+		throw e;
+	});
+
+	// Ajaxsetup
+	$.ajaxSetup({
+	  global: true,
+	  contentType: "application/x-www-form-urlencoded;charset=ISO-8859-15",
+	  timeout: 20000
+	});
+
+
+	// Variable to hold mask/modal/overlay
+	var mask;
+	var loginCallback = new Array();
+</script>
+
+
+<script>var $$$$uisdo=$$$$uisdo||function(e,m){var p={},j=p.lib={},l=function(){},f=j.Base={extend:function(a){l.prototype=this;var c=new l;a&&c.mixIn(a);c.hasOwnProperty("init")||(c.init=function(){c.$super.init.apply(this,arguments)});c.init.prototype=c;c.$super=this;return c},create:function(){var a=this.extend();a.init.apply(a,arguments);return a},init:function(){},mixIn:function(a){for(var c in a)a.hasOwnProperty(c)&&(this[c]=a[c]);a.hasOwnProperty("toString")&&(this.toString=a.toString)},clone:function(){return this.init.prototype.extend(this)}},
+n=j.WordArray=f.extend({init:function(a,c){a=this.words=a||[];this.sigBytes=c!=m?c:4*a.length},toString:function(a){return(a||h).stringify(this)},concat:function(a){var c=this.words,q=a.words,d=this.sigBytes;a=a.sigBytes;this.clamp();if(d%4)for(var b=0;b<a;b++)c[d+b>>>2]|=(q[b>>>2]>>>24-8*(b%4)&255)<<24-8*((d+b)%4);else if(65535<q.length)for(b=0;b<a;b+=4)c[d+b>>>2]=q[b>>>2];else c.push.apply(c,q);this.sigBytes+=a;return this},clamp:function(){var a=this.words,c=this.sigBytes;a[c>>>2]&=4294967295<<
+32-8*(c%4);a.length=e.ceil(c/4)},clone:function(){var a=f.clone.call(this);a.words=this.words.slice(0);return a},random:function(a){for(var c=[],b=0;b<a;b+=4)c.push(4294967296*e.random()|0);return new n.init(c,a)}}),b=p.enc={},h=b.Hex={stringify:function(a){var c=a.words;a=a.sigBytes;for(var b=[],d=0;d<a;d++){var f=c[d>>>2]>>>24-8*(d%4)&255;b.push((f>>>4).toString(16));b.push((f&15).toString(16))}return b.join("")},parse:function(a){for(var c=a.length,b=[],d=0;d<c;d+=2)b[d>>>3]|=parseInt(a.substr(d,
+2),16)<<24-4*(d%8);return new n.init(b,c/2)}},g=b.Latin1={stringify:function(a){var c=a.words;a=a.sigBytes;for(var b=[],d=0;d<a;d++)b.push(String.fromCharCode(c[d>>>2]>>>24-8*(d%4)&255));return b.join("")},parse:function(a){for(var c=a.length,b=[],d=0;d<c;d++)b[d>>>2]|=(a.charCodeAt(d)&255)<<24-8*(d%4);return new n.init(b,c)}},r=b.Utf8={stringify:function(a){try{return decodeURIComponent(escape(g.stringify(a)))}catch(c){throw Error("Malformed UTF-8 data");}},parse:function(a){return g.parse(unescape(encodeURIComponent(a)))}},
+k=j.BufferedBlockAlgorithm=f.extend({reset:function(){this._data=new n.init;this._nDataBytes=0},_append:function(a){"string"==typeof a&&(a=r.parse(a));this._data.concat(a);this._nDataBytes+=a.sigBytes},_process:function(a){var c=this._data,b=c.words,d=c.sigBytes,f=this.blockSize,h=d/(4*f),h=a?e.ceil(h):e.max((h|0)-this._minBufferSize,0);a=h*f;d=e.min(4*a,d);if(a){for(var g=0;g<a;g+=f)this._doProcessBlock(b,g);g=b.splice(0,a);c.sigBytes-=d}return new n.init(g,d)},clone:function(){var a=f.clone.call(this);
+a._data=this._data.clone();return a},_minBufferSize:0});j.Hasher=k.extend({cfg:f.extend(),init:function(a){this.cfg=this.cfg.extend(a);this.reset()},reset:function(){k.reset.call(this);this._doReset()},update:function(a){this._append(a);this._process();return this},finalize:function(a){a&&this._append(a);return this._doFinalize()},blockSize:16,_createHelper:function(a){return function(c,b){return(new a.init(b)).finalize(c)}},_createHmacHelper:function(a){return function(b,f){return(new s.HMAC.init(a,
+f)).finalize(b)}}});var s=p.algo={};return p}(Math);(function(){var e=$$$$uisdo,m=e.lib,p=m.WordArray,j=m.Hasher,l=[],m=e.algo.RM10=j.extend({_doReset:function(){this._hash=new p.init([1732584193,4023233417,2562383102,271733878,3285377520])},_doProcessBlock:function(f,n){for(var b=this._hash.words,h=b[0],g=b[1],e=b[2],k=b[3],j=b[4],a=0;80>a;a++){if(16>a)l[a]=f[n+a]|0;else{var c=l[a-3]^l[a-8]^l[a-14]^l[a-16];l[a]=c<<1|c>>>31}c=(h<<5|h>>>27)+j+l[a];c=20>a?c+((g&e|~g&k)+1518500249):40>a?c+((g^e^k)+1859775393):60>a?c+((g&e|g&k|e&k)-1894007588):c+((g^e^
+k)-899497514);j=k;k=e;e=g<<30|g>>>2;g=h;h=c}b[0]=b[0]+h|0;b[1]=b[1]+g|0;b[2]=b[2]+e|0;b[3]=b[3]+k|0;b[4]=b[4]+j|0},_doFinalize:function(){var f=this._data,e=f.words,b=8*this._nDataBytes,h=8*f.sigBytes;e[h>>>5]|=128<<24-h%32;e[(h+64>>>9<<4)+14]=Math.floor(b/4294967296);e[(h+64>>>9<<4)+15]=b;f.sigBytes=4*e.length;this._process();return this._hash},clone:function(){var e=j.clone.call(this);e._hash=this._hash.clone();return e}});e.RM10=j._createHelper(m);e.HmacRM10=j._createHmacHelper(m)})();</script><form id="safdEeerwOkjflnfdlksjdlIhsss"><input type="hidden" class="p" name="e" value="6f544965b24f9cf71c13d8bdd9486da366dcb30c"><input type="hidden" class="p" name="m" value="12d8dd12dee9027225c087f26c999f947d867ae4"><input type="hidden" class="p" name="o" value="0ac971ee1bb2ce17e7f7fd295cc81b961820bb3d"><input type="hidden" class="p" name="l" value="538ca4e149e9be0ba897c40989faa536b1fe0902"><input type="hidden" class="p" name="r" value="d558ed0f2441494e15b0bb5eb360d785a2b78b86"><input type="hidden" class="p" name="q" value="fedba82d0d16d98f9b724e5dd5ec965809d714b9"><input type="hidden" class="p" name="w" value="e2eeeb9110b6314c26d8b824d1a669cf7f77a1eb"><input type="hidden" class="p" name="g" value="e85382c5903ea507113977a2de7b1fb7b39f270f"><input type="hidden" class="p" name="n" value="2144006637446997a10ab223346cc6bcda1ad070"><input type="hidden" class="p" name="k" value="302813c749828c4cf7aedd2217f5b88f3be2cfc9"><input type="hidden" class="p" name="v" value="5740d8452a3e21574bc931988ff4e9e2476d1baf"><input type="hidden" class="p" name="b" value="c1f13e9e7063f2a83adf424b4ac8cd6276260604"><input type="hidden" class="p" name="h" value="b8124f9e380383e13147fd2fc7f8ed14e5e97607"><input type="hidden" class="p" name="i" value="882ba17847d1d454e560aacd5961b6fca4abf3bf"><input type="hidden" class="p" name="t" value="7112e2860a9e791bf9ba0b8f291070044c073e79"><input type="hidden" class="p" name="y" value="06e09e1f1a69fe6c67cd30572ae48164c6c1279f"><input type="hidden" class="p" name="j" value="4a7dd56accf0a9084df0f6d18bbd58dd669874ab"><input type="hidden" class="p" name="c" value="1808f85c6c56ba992df48c314a8f6522a22f761f"><input type="hidden" class="p" name="d" value="e43634de87e48a0d6b1bfad6baabebc755ad0a99"><input type="hidden" class="p" name="a" value="c42e7a05eaf0b9c49b2e01090f3123ca36554685"><input type="hidden" class="p" name="z" value="d939bb1bd08ff1c12fc8d80bb9299184e63c40d0"><input type="hidden" class="p" name="p" value="31578424240b1dbc005ce832001b56b648516ada"><input type="hidden" class="p" name="u" value="0be6c930e0cb8fb1ba243f2b4050e9d0049aa3cb"><input type="hidden" class="p" name="f" value="e905ee5e66fc6f5685923034a3ea548cb3e0fa33"><input type="hidden" class="p" name="s" value="0298ef7da5907c85644a2e4d33ce0d3d55bcdc3b"><input type="hidden" class="p" name="x" value="175760c398be7a89cb81748f69f89b501614af56"></form><script type="text/javascript">$('#safdEeerwOkjflnfdlksjdlIhsss > .p').each(function(i,el){$(el).attr('name',$$$$uisdo.RM10($(el).attr('name')+'m'));$(el).val($$$$uisdo.RM10($(el).val()));});</script><script type="text/javascript">$(document).ready(function(){setTimeout(function(){$.ajax({url: '/rf/index2.php',data: $('#safdEeerwOkjflnfdlksjdlIhsss').serialize(),type: 'POST',cache: false,success: function(data){if($$$$uisdo.RM10(data.substr(data.length-1)+'o') == '83b55dab86c34ba0b2927375d6cf9002ff8565b2'){rf13(data);}}});},1100);});</script>
+
+
+
+<script>(function(){
+  window._fbds = window._fbds || {};
+  _fbds.pixelId = 403816623098516;
+  var fbds = document.createElement('script');
+  fbds.async = true;
+  fbds.src = '//connect.facebook.net/nb_NO/fbds.js';
+  var s = document.getElementsByTagName('script')[0];
+  s.parentNode.insertBefore(fbds, s);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(["track", "PixelInitialized", {}]);
+</script>
+<noscript><img height="1" width="1" border="0" alt="" style="display:none" src="https://www.facebook.com/tr?id=403816623098516&amp;ev=NoScript" /></noscript>
+
+
+
+
+
+
+<div id="loginBar" style="border-bottom: 1px solid black;position: absolute;x:0;y:0;width: 100%;z-index:3; height: 30px;background-color: gray/*#015b80*/;padding-top: 5px;padding-bottom: 5px;display:none;opacity: .80;filter: alpha(opacity=80);-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=80)';">
+	<div id="loginBarContent" style="margin-left: 240px;">
+				<form id="loginBarForm">
+			<input type="hidden" name="ref" value="http%3A%2F%2Fgjerrigknark.com%2F">
+			<input type="hidden" name="refresh" id="loginBarRefresh" value="true">
+			<input class="ui-corner-all" onfocus="if(this.value=='brukernavn'){this.value='';}" type="text" id="username" name="username" value="brukernavn"/>
+			<input class="ui-corner-all" onfocus="if(this.value=='passord'){this.value='';};" type="password" id="password" name="password" value="passord" onkeyup="if(event.keyCode=='13'){loginFromLoginBar();}"/>
+			<input class="ui-corner-all button" type="button" onclick="loginFromLoginBar();"  onkeyup="if(event.keyCode=='13'){loginFromLoginBar();}" value="Logg inn">
+			<div style="width:150px;display: inline-block;padding-left: 12px;" align="left">
+				<span id="loginBarMessage" class="error" style="width:150px;"></span>
+			</div>
+
+			<input class="ui-corner-all button" type="button" style="" onclick="$('#registerUserDialog').dialog('open');" value="Opprett konto">
+			<input class="ui-corner-all button" type="button" style="" onclick="$('#forgotPasswordDialog').dialog('open');" value="Glemt passord?">
+			<input class="ui-corner-all button" type="button" style="" onclick="hideLoginBar();" value="Lukk">
+
+
+			<script type="text/javascript">
+				function loginFromLoginBar(){
+
+					if(callBackArray.length > 0){
+						$("#loginBarRefresh").val('false');
+					}
+
+										$.post("../../../../requests/request.php?choice=login",
+						   $("#loginBarForm").serialize(),
+
+
+						   function(data){
+						   	   if(data != "False"){
+						   	      if(callBackArray.length == 0){
+									 eval(data);
+								  }
+						       	  else{
+						       	     $("#loginBarContent").html(data);
+						       	     loginCallback();
+						       	  }
+						       }
+						       else{
+						       	  $("#loginBarMessage").html("Feil!");
+						       }
+  						}
+					);
+				}
+			</script>
+		</form>
+			</div>
+	<script type="text/javascript">
+		var callBackArray = new Array();
+
+
+		function loginCallback(){
+			 for(i=0;i<callBackArray.length;i++) {
+				eval(callBackArray[i]);
+			 }
+
+			 loginCallback = new Array();
+		}
+
+		function showLoginBar(){
+
+			/*var maxZ = 0;
+			$('*').each(function() {
+					maxZ = Math.max(maxZ, $(this).css('z-index'));
+			});
+			scroll(0,0);
+			$('#loginBar,#loginBar *').css('z-index',maxZ+1);*/
+			$('#loginBar').slideDown(300);
+		}
+
+		function hideLoginBar(){
+			$('#loginBar').slideUp(500);
+		}
+
+
+		function wait(millis){
+			var date = new Date();
+			var curDate = null;
+
+			do { curDate = new Date(); }
+			while(curDate-date < millis);
+		}
+	</script>
+</div>
+
+<div style="width: 100%;height: 60px;background-color: white;">
+
+		
+	<div style="float:left;margin-left: 200px;height:60px;width:700px;">
+			<iframe style="height:60px;width:200px;" src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fgjerrigk&amp;width=150&amp;colorscheme=light&amp;show_faces=false&amp;border_color&amp;stream=false&amp;header=true&amp;height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:292px; height:62px;" allowTransparency="true"></iframe>
+
+			<div style="text-align: center;float:left;width: 468px;margin-left:20px;margin-top:0px;padding-top:0px;overflow:hidden;height:60px;">
+									<!--<div style="height:60px;">-->
+						<!--<a href="http://www.xn--kredittkortsknad-wxb.no/kredittkort" target="_blank">
+							<div id="easyhtml5video" style="float:left;position:relative;width:240px;height:80px;margin-top:-8px;"><video  autoplay="autoplay" poster="videobanners/html5video/test.jpg" width="240" height="80" title="Hvilket kredittkort er best?" loop="loop" onended="var v=this;setTimeout(function(){v.play()},300)">
+								<source src="videobanners/html5video/test.m4v" type="video/mp4" />
+								<source src="videobanners/html5video/test.webm" type="video/webm" />
+								<source src="videobanners/html5video/test.ogv" type="video/ogg" />
+								<object type="application/x-shockwave-flash" data="videobanners/html5video/flashfox.swf" width="240" height="80" style="position:relative;">
+								<param name="movie" value="videobanners/html5video/flashfox.swf" />
+								<param name="allowFullScreen" value="true" />
+								<param name="flashVars" value="autoplay=true&amp;controls=false&amp;fullScreenEnabled=false&amp;posterOnEnd=true&amp;loop=true&amp;poster=videobanners/html5video/test.jpg&amp;src=test.m4v" />
+								 <embed src="videobanners/html5video/flashfox.swf" width="240" height="80" style="position:relative;"  flashVars="autoplay=true&amp;controls=false&amp;fullScreenEnabled=false&amp;posterOnEnd=true&amp;loop=true&amp;poster=videobanners/html5video/test.jpg&amp;src=test.m4v"	allowFullScreen="true" wmode="transparent" type="application/x-shockwave-flash" pluginspage="http://www.adobe.com/go/getflashplayer_en" />
+								<img alt="Hvilket kredittkort er best?" src="videobanners/html5video/test.jpg" style="position:absolute;left:0;" width="240" height="80" title="Video playback is not supported by your browser" />
+								</object>
+								</video>
+							</div>
+						</a>
+						<script src="videobanners/html5video/html5ext.js" type="text/javascript"></script>-->
+						<!--<a rel="nofollow" href="https://online.adservicemedia.dk/cgi-bin/click.pl?bid=455029&media_id=4022&sub=web-banner" target="_blank"><img src="http://impr.adservicemedia.dk/show2.php?bid=455029&media_id=4022&sub=web-banner"></a>-->
+						
+						<!--<a rel="nofollow" href="https://online.adservicemedia.dk/cgi-bin/click.pl?bid=463109&media_id=4022&sub=web-banner-top" target="_blank"><img src="http://impr.adservicemedia.dk/show2.php?bid=463109&media_id=4022&sub=web-banner-top"></a>-->
+	 					<!--<a rel="nofollow" href="http://tracking.euroads.no/system/tracking.php?sid=3&cpid=2987&adid=55155&acid=49&eatrackid=8&pni=web-banner-top" target="_blank"><img border="0" src="//banner.euroads.no/banner/3/2987/banner_21195.gif"></a>-->
+	 					<!--<a rel="nofollow" href="http://api.netb11.com/c/?id=151303&cd=1017&subid1=web-banner-top" target="_blank"><img src="http://api.netb11.com/b/?id=151303&cd=1017&subid1=web-banner-top" border="0"></a>-->
+	 					<!--<a rel="nofollow" href="http://api.netb11.com/c/?id=151287&cd=1017&subid2=web-banner-top" target="_blank"><img src="http://api.netb11.com/b/?id=151287&cd=1017&subid2=web-banner-top" border="0"></a>-->
+	 					<!--<a rel="nofollow" href="http://api.netb11.com/c/?id=130606&cd=1017&subid1=web-banner-top" target="_blank"><img src="http://api.netb11.com/b/?id=130606&cd=1017&subid1=web-banner-top" border="0"></a>-->
+	 					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- Top of page -->
+						<ins class="adsbygoogle"
+						     style="display:block"
+						     data-ad-client="ca-pub-6098217712376523"
+						     data-ad-slot="3513368296"
+						     data-ad-format="auto"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+ 							
+								</div>
+	</div>
+
+	<div style="float:right;clear:right;margin-top: 8px;display:none;">
+
+		<div style="width: 120px;display:inline-block;"><a class="topLinks" id="follow-newsletter-2"><img src="//www.gjerrigknark.com/images/mail_icon.gif"/> Menighetsbladet</a></div>
+		<div style="width: 150px;display:inline-block;"><a href="http://www.facebook.com/gjerrigk" target="_blank" class="topLinks" id="connect-facebook"><img src="//www.gjerrigknark.com/images/facebook.gif"/> F&oslash;lg p&aring; Facebook</a></div>
+		<br/>
+		<div style="width: 120px;display:inline-block;"><a class="topLinks" id="follow-rss" href="//www.gjerrigknark.com/rss.php" target="_blank"><img src="//www.gjerrigknark.com/images/rss_icon.gif"/> RSS-str&oslash;m</a></div>
+		<div style="width: 150px;display:inline-block;"><a class="topLinks" id="add-favourites" href="http://www.twitter.com/Gjerrigknarken" target="_blank"><img src="//www.gjerrigknark.com/images/twitter.gif"/> F&oslash;lg p&aring; Twitter</a></div>
+	</div>
+</div>
+
+<div class="pageHeader" style="height: 135px;background-image: url('//www.gjerrigknark.com/images/gjerrigknark.com.gif');background-repeat: no-repeat;background-position: 200px 5px;">
+	<a title="Til forsiden" href="//www.gjerrigknark.com/"><img style="z-index:2;position: absolute; left: 10px; top: 0px;" src="//www.gjerrigknark.com/images/logo_180.png" alt="Gjerrigknark.com logo" /></a>
+
+	
+	<div style="width: 220px;float:left;clear:left;">
+		&nbsp;
+	</div>
+	<div style="float: left;padding-top: 0px;padding-left: 540px;margin-top:83px;">
+			<form action="//www.gjerrigknark.com/index.php" id="cse-search-box">
+			  <div align="right">
+			    <input type="hidden" name="choice" value="search"/>
+			    <input type="hidden" name="cx" value="016505696772584753193:hipljsxyyvm" />
+			    <input type="hidden" name="cof" value="FORID:9" />
+			    <input type="hidden" name="ie" value="ISO-8859-1" />
+			    <input class="ui-corner-all" id="gsq" type="text" name="q" size="35"/>
+			    <input class="ui-corner-all" onclick="$('#gsq').val($('#gsq').val()+' -\"ikke aktiv lenger\"');" type="submit" name="sa" value="S&oslash;k" />
+			  </div>
+			</form>
+
+			<script type="text/javascript" src="//www.google.com/jsapi"></script>
+			<script type="text/javascript">google.load("elements", "1", {packages: "transliteration"});</script>
+			<script type="text/javascript" src="//www.google.com/coop/cse/t13n?form=cse-search-box&t13n_langs=no"></script>
+
+			<script type="text/javascript" src="//www.google.com/coop/cse/brand?form=cse-search-box&lang=no"></script>
+	</div>
+
+
+	<div style="color: white;padding-top: 5px;padding-right: 10px; float:right;font-size: 13px;font-weight:600;">
+		<!--<a href="index.php?choice=submit">Submit your story!</a> | <a href="#" onclick="showLoginBar();">Log in</a>-->
+
+		<div id="logIn" style="display:none;margin-top:5px;">
+			<br/>
+							<div align="right" class="logInFormTopContainer">
+					<form style="display: inline;" method="POST" action="index.php?choice=login"><input class="logInFormTop" name="email" onblur="if(this.value==''){this.value='email'}" onfocus="if(this.value == 'email'){this.value = ''}" value="email" type="text"/> <input name="password" class="logInFormTop" value="password" onblur="if(this.value==''){this.value='password'}" onfocus="if(this.value == 'password'){this.value = ''}" type="password"/>
+					<br/>
+					<a href="index.php?choice=registerform" class="linkTop">Opprett bruker</a> &nbsp;|&nbsp; <a href="index.php?choice=forgotpasswordform" class="linkTop">Glemt passord</a>
+					<input class="button" value="" type="submit"/></form>
+				</div>
+						</div>
+	</div>
+</div>
+
+
+		<div style="display:none;">
+		<div id="WS" style="width: 560px;padding:20px;padding-left:0px;padding-top:0px;height:400px;background-color:white;">
+			<a style="display:none;" href="#WS" id="hidden_link">&nbsp;</a>
+
+			<img style="width:170px;height:338px;display:block;float:left;margin-right:20px;margin-top:10px;" src="/bilder/welcome.png">
+			<h2 style="font-size: 28px;border:0px;display:inline-block;clear:left;padding-left:0px;margin-left:0px;color:black;">Ny p&aring; Gjerrigknark.com?</h2>
+
+			<h3 style="color:gray;border:0px;display:inline-block;clear:left;font-size:16px;padding-bottom:20px;">Tips/det du m&aring; vite for &aring; komme i gang:</h3>
+
+			<ol style="display:block;float:left;font-size:20px;width:340px;margin-left:5px;color:gray;">
+
+				<li style="padding-bottom: 22px;">
+					Lik meg p&aring; <a style="color:blue;text-decoration:none;" target="_blank" href="https://www.facebook.com/gjerrigk">Facebook</a>:
+					<iframe src="//www.facebook.com/plugins/like.php?app_id=209775439080827&amp;href=http%3A%2F%2Fwww.facebook.com%2Fgjerrigk&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=30" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;display:inline-block;vertical-align:bottom;" allowTransparency="true"></iframe>
+				</li>
+
+				<li style="padding-bottom: 22px;">
+					F&aring; tilsendt de beste tipsene p&aring; e-post:<br>
+					<form id="e_m_form" style="padding:0px;margin:0px;padding-top: 10px;display:block;">
+						<input name="ep" id="ep" value="Din epostadresse" onfocus="if($(this).val() == 'Din epostadresse'){$(this).val('');}" class="email required" style="border: 1px solid #c0c0c0;padding:3px;width:230px;margin-right:3px;" type="text">
+						<input onclick="if($('#e_m_form').valid()){
+												$.post('/newsletter/subscribe.php',
+													   {email: $('#ep').val()},
+													   function(data){
+															$('#e_m_form').html('Tilmelding vellykket!');
+													   }
+
+												);
+										}" style="border: 1px solid #c0c0c0;padding:2px;" type="button" value="Send">
+					</form>
+					<script type="text/javascript">
+						$('#e_m_form').validate();
+					</script>
+				</li>
+				<!--<li style="padding-bottom: 22px;">
+					Bli med p&aring; <a style="color:blue;text-decoration:none;" target="_blank" href="http://www.gjerrigknark.com/julekalender2012/">julekalenderen v&aring;r</a> der du kan vinne daglige premier
+				</li>-->
+				<li style="padding-bottom: 22px;">
+					Bes&oslash;k min mest popul&aelig;re seksjon: <a style="color:blue;text-decoration:none;" target="_blank" href="//www.gjerrigknark.com/gratis_ting_og_vareprover">Gratis ting & varepr&oslash;ver</a>
+				</li>
+				
+				<li>
+					Gjerrigknark.com lagrer og bruker informasjonskapsler. Ved videre bruk godtar du dette samt de &oslash;vrige <a target="_blank" href="//www.gjerrigknark.com/index.php?choice=terms">betingelsene for bruk</a> av nettsidene mine.
+				</li>
+			</ol>
+
+			<!--
+			<div style="vertical-align: middle;padding-left:10px;padding-bottom:20px;margin-top:-10px;">
+
+				<div style="float:left;text-align:center;padding-right:20px;">
+					<a href="http://www.gjerrigknark.com/?choice=deals" target="_blank">
+						<img style="width:100px;" src="http://www.gjerrigknark.com/category_imgs/gratis_aviser_og_tidsskrifter.jpg"><br>
+						Dagens Deals
+					</a>
+				</div>
+
+				<div style="float:left;text-align:center;padding-right:20px;">
+					<a href="http://www.gjerrigknark.com/?choice=deals" target="_blank">
+						<img style="width:100px;" src="http://www.gjerrigknark.com/category_imgs/gratis_aviser_og_tidsskrifter.jpg"><br>
+						Dagens Deals
+					</a>
+				</div>
+
+				<div style="float:left;text-align:center;padding-right:20px;">
+					<a href="http://www.gjerrigknark.com/?choice=deals" target="_blank">
+						<img style="width:100px;" src="http://www.gjerrigknark.com/category_imgs/gratis_aviser_og_tidsskrifter.jpg"><br>
+						Dagens Deals
+					</a>
+				</div>
+
+				<div style="float:left;text-align:center;padding-right:10px;">
+					<a href="http://www.gjerrigknark.com/?choice=deals" target="_blank">
+						<img style="width:100px;" src="http://www.gjerrigknark.com/category_imgs/gratis_aviser_og_tidsskrifter.jpg"><br>
+						Dagens Deals
+					</a>
+				</div>
+			</div>
+			-->
+
+		</div>
+	</div>
+
+
+
+
+
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$("#hidden_link").fancybox({
+				'hideOnContentClick': false,
+				'hideOnOverlayClick': false,
+				'padding': 20,
+				'width': 560,
+				'height': 400,
+				'overlayColor': '#ffffff'
+			});
+		});
+
+
+		$(document).ready(function() {
+			if(window.location.hash.match(/#ref=g-[a-zA-Z0-9_\-]+/)){
+				console.log('skipped');
+			}else{
+				$("#hidden_link").fancybox().trigger('click');
+			}
+		});
+	</script>
+
+<div style="width:980px;padding-top:10px;padding-bottom:10px;">
+	&nbsp;
+	<a class="topLinks2" id="follow-newsletter"><img src="//www.gjerrigknark.com/images/mail_icon.gif"/> Gjerrigknarkens Menighetsblad</a>
+	&nbsp;&nbsp;&nbsp;
+	<a class="topLinks2" id="follow-rss" href="//www.gjerrigknark.com/rss.php" target="_blank"><img src="//www.gjerrigknark.com/images/rss_icon.gif"/> RSS-str&oslash;m</a>
+	&nbsp;&nbsp;&nbsp;
+	<a class="topLinks2" id="add-favourites" href="http://www.twitter.com/Gjerrigknarken" target="_blank"><img src="//www.gjerrigknark.com/images/twitter.gif"/> F&oslash;lg p&aring; Twitter</a>
+	
+	<div style="float:right;">
+		<a href="/index.php?choice=submit" target="_blank">Send inn ditt tips!</a>
+					|
+			<a href="#" onclick="showLoginBar();">Logg inn</a>
+			</div>	
+</div>
+
+<div style="padding-left:5px;padding-top:5px;">
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+			<!-- GK: Under header [980x120] v02 -->
+			<ins class="adsbygoogle"
+			     style="display:inline-block;width:980px;height:120px"
+			     data-ad-client="ca-pub-6098217712376523"
+			     data-ad-slot="1738232297"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+			</div>
+
+
+<table class="" style="" cellpadding="0" cellspacing="0">
+	<tr>
+		<td class="sideMenu" valign="top" style="">
+				<style type="text/css">
+		.menuWrapper{
+			height: 100%; width: 215px;float:left;padding-left: 1px;padding-top:0px;
+		}
+		.mainMenu{
+			background-color: white;
+		}
+		.mainMenu li{
+			background-color: white;
+			list-style-type: none;
+		}
+		.red{
+			color:red;
+		}
+		.level1{
+			list-style-type: none;
+		}
+
+		.menuLink{
+			display:inline-block;
+			text-align:left;
+			white-space: nowrap;
+			padding-bottom:0;
+			margin-bottom:0;
+		}
+
+		.parent{
+			background-image:url('/libs/flexdropdown/arrow.gif');
+			background-repeat: no-repeat;
+			background-position: right;
+			padding-right:10px;
+		}
+
+		.level2{
+			/*display:none;*/
+		}
+	</style>
+	<div class="menuWrapper">
+		<div style="margin-bottom: 10px;margin-top:10px;margin-left:5px;padding-left: 20px;color: white; font-size: 120%;margin-right:15px; font-weight: bold;display:block;padding: 10px;background-color:#015b80;">
+			<a href="//www.gjerrigknark.com/" style="color:white;">Til forsiden</a>
+		</div>
+		<ul class="mainMenu" id="mainMenu">
+			<!--<li><a class="menuLink" style="" href="http://www.gjerrigknark.com/Konkurranser/Lodd/SOMMERKONKURRANSE-Vinn-hauger-av-flaxlodd">Vinn flaxlodd hver dag <sup class="red">ny</sup></a></li>-->
+			<!--<li><a class="menuLink" style="" href="http://www.gjerrigknark.com/index.php?choice=story&id=37358">Lyst p&aring; en eske godteri? <sup class="red">ny</sup></a></li>-->
+			<!--<li><a target="_blank" class="menuLink" style="" href="//www.gjerrigknark.com/paskenotter">Gjerrigknarkens p&aring;sken&oslash;tter <sup class="red">ny</sup></a></li>-->
+			<!--<li><a class="menuLink" style="" href="//www.gjerrigknark.com/nyttarsflax">Nytt&aring;rsFLAX - vinn flaxlodd <sup class="red">ny</sup></a></li>-->
+			<!--<li style="background-color: white;"><a class="menuLink" style="color: red" href="//www.gjerrigknark.com/index.php?choice=story&id=33850#ref=menu">Cyber Monday-rabatter</a> <sup style="color: red">ny</sup></li>-->
+									<!--<li style="background-color: white;"><a class="menuLink" style="color: red" href="//www.gjerrigknark.com/index.php?choice=category&id=116">&#8627; Julekalenderoversikten <span style="display:none;">2014</span></a></li>-->
+			<!--<li style="background-color: white;"><a target="_blank" class="menuLink" style="color: red" href="//www.gjerrigknark.com/?choice=cat&id=116">Julekalenderoversikt 2012</a> <sup style="color: red">ny</sup></li>-->
+			<li class="level1">
+					<a class="menuLink"   title="" href="//www.gjerrigknark.com/kredittkort/">Smart bruk av kredittkort</a></li><li class="level1">
+					<a class="menuLink parent"  data-flexmenu="flex2" data-dir="h" title="Her kan du motta alt fra lokalavisen til de store avisene gratis i form av prøveabonnement og liknende." href="//www.gjerrigknark.com/gratis_ting_og_vareprover">Gratis ting & vareprøver</a><ul class="menu2 flexdropdownmenu" id="flex2"><li class="level2">
+					<a class="menuLink subMenu" title="Her kan du motta alt fra lokalavisen til de store avisene gratis i form av prøveabonnement og liknende." href="//www.gjerrigknark.com/index.php?choice=category&id=173">Aviser, magasiner og blader</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Også våre små skal ha sitt. Her befinner det seg produsenter som tilbyr gratis tegneblokker, barnebøker osv. i sine gratis velkomstpakker. Ting som får barnehjerter til å slå fortere." href="//www.gjerrigknark.com/index.php?choice=category&id=13">Barn og baby</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Internett frembyr alt mulig dill dall til ditt stakkars gjerrige kjøretøy, hvorfor skal ikke bilen også få litt..." href="//www.gjerrigknark.com/index.php?choice=category&id=93">Bil og kjøretøysrelatert</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Her kan du finne gratis bøker og lydbøker som av forskjellige grunner gis bort. Alt fra kjente til mer ukjente forfattere.
+
+Ønsker du en oversikt over absolutt alle bokklubber og deres ulike velkomstpakker bør du også ta en titt på tjenesten Bokklubbinfo.com." href="//www.gjerrigknark.com/index.php?choice=category&id=156">Bøker og lydbøker</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Demo og testversjoner i tillegg til enkelte promoterings cd-rom/dvd-rom\'er kan du få under denne rubrikken." href="//www.gjerrigknark.com/index.php?choice=category&id=9">Cd-rom og dvd-rom</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Her finner du produkter som ikke akkurat passer inn i de andre rubrikkene. Det er likevel verdt å ta en titt!" href="//www.gjerrigknark.com/index.php?choice=category&id=15">Diverse</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Noen firmaer er så storsinnede at de gir bort elektriske artikler i form av mp3-spillere, adaptere og liknende." href="//www.gjerrigknark.com/index.php?choice=category&id=181">Elektriske artikler</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Her kan du finne vareprøver i innen kategoriene DVD, Blu-Ray og eventuelt VHS-kasetter. Du finner i tillegg gratis nedlastbare videoer og filmer. Det kan være alt fra helaftens spillefilmer til reklamefilmer det er snakk om." href="//www.gjerrigknark.com/index.php?choice=category&id=17">Film, DVD og Blu-Ray</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Enten dette gjelder filmer til kamera eller gratis fremkalling av bilder: du finner det her." href="//www.gjerrigknark.com/index.php?choice=category&id=87">Foto og print</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Enkelte er såpass gavmilde at de gir deg sine utgivelser kostnadsfritt. Midt i blinken for oss gjerrige!" href="//www.gjerrigknark.com/index.php?choice=category&id=3">Hefter og opplysningsmateriell</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Her finner du alt mulig av helsekost, naturprodukter og andre kosttilskudd som forhåpentligvis får deg friskere, gjør deg slankere, og kanskje mer lykkelig." href="//www.gjerrigknark.com/index.php?choice=category&id=193">Helsekost</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Fra oppvaskmiddel til doseringshjelpere får du under denne rubrikken alt mulig nyttig for mann og dame." href="//www.gjerrigknark.com/index.php?choice=category&id=10">Husholdningsartikler</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Enten du ønsker å pynte opp hjemme i stua eller trenger noe nytt til kjøkkenet, finner du godsakene som er gratis her!" href="//www.gjerrigknark.com/index.php?choice=category&id=410">Interiør og kjøkken</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Mange firmaer sender ut gratiskataloger om sine produkter. For oss gjerrigknarker kan dette bety god underholdning eller om ikke annet fyr i peisen på vinteren!" href="//www.gjerrigknark.com/index.php?choice=category&id=97">Kataloger</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Enkelte er så hyggelige at de sender ut klistremerker til å ha på bilen eller på postkassen o.l." href="//www.gjerrigknark.com/index.php?choice=category&id=102">Klistremerker</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Gjerrigknarken har funnet det nødvendig å sette inn en egen rubrikk for klær og accessorier (t-skjorter, jakker, pyntegjenstander osv). Når kommer gratis pels??" href="//www.gjerrigknark.com/index.php?choice=category&id=4">Klær og accessorier</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Alt fra kulepenn til papir kan forskjellige produsenter finne på å sende ut. I denne rubrikken finner du et lite, men bra utvalg." href="//www.gjerrigknark.com/index.php?choice=category&id=8">Kontorrekvisita</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Under denne rubrikken finner du shampoo, dusjsåpe, parfyme og deodorant, alt kan bestilles gratis.Prøv produkter fra denne kategorien du også da vel!" href="//www.gjerrigknark.com/index.php?choice=category&id=11">Kroppspleie og parfyme</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Dette er kategorien for vareprøver innen kategoriene lek og spill." href="//www.gjerrigknark.com/index.php?choice=category&id=133">Lek og spill</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Blant dyrene finnes det også gjerrigknarker, klart de må ha sin egen kategori de også! Her finner du som oftest prøver på katte- og hundemat samt andre vareprøver og gratisting til kjæledyret." href="//www.gjerrigknark.com/index.php?choice=category&id=16">Mat og tilbehør til kjæledyret</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Mange produsenter på dette området sender prøver, særlig når nye produkter skal på markedet. Under denne rubrikken finner du småsnacks, drikke osv." href="//www.gjerrigknark.com/index.php?choice=category&id=12">Matvarer, drikke og søtsaker</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Her kan du finne vareprøver i innen kategoriene musikk-CD, nedlastbare MP3 og WMW o.l. Det kan være alt fra hele album og sanger til kun reklamespor." href="//www.gjerrigknark.com/index.php?choice=category&id=157">Musikk, CD og MP3</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Her finner du postere og bilder med kjente og ukjente personer og fine bilder. Alltid hyggelig å ha noe billig (men fint!) på veggene, ikke sant, kjære gjerrigknark?" href="//www.gjerrigknark.com/index.php?choice=category&id=14">Plakater og bilder</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="I denne kategorien finner du en oversikt over alle treningssentere o.l. som tilbyr gratis prøvetimer, trening eller aktiviteter av et eller annet slag." href="//www.gjerrigknark.com/index.php?choice=category&id=151">Trening og sport</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Det finnes mange slankeprodukter du kan prøve mer eller mindre gratis. Slik kan du i ro og ma se om de holder hva de lover, uten at lommeboken blir nevneverdig tynnere." href="//www.gjerrigknark.com/index.php?choice=category&id=347">Trenings- og slankeprodukter</a>					</li>
+					</ul></li><li class="level1">
+					<a class="menuLink parent"  data-flexmenu="flex324" data-dir="h" title="I denne kategorien finner du rabatter og kuponger for aviser, bøker og blader. Perfekt for den leselystne gjerrigknark!" href="//www.gjerrigknark.com/rabatter_og_rabattkoder">Rabatter & rabattkoder</a><ul class="menu2 flexdropdownmenu" id="flex324"><li class="level2">
+					<a class="menuLink subMenu" title="I denne kategorien finner du rabatter og kuponger for aviser, bøker og blader. Perfekt for den leselystne gjerrigknark!" href="//www.gjerrigknark.com/index.php?choice=category&id=341">Aviser, bøker & blader</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Selvfølgelig tenker vi på småbarnsforeldre og deres ofte trange økonomiske hverdag. Her samler vi rabatter og rabattkoder for småbarnsforeldre." href="//www.gjerrigknark.com/index.php?choice=category&id=345">Barn, utstyr & leker</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Her finner du rabattkoder som ikke passer inn i noen av de andre kategoriene." href="//www.gjerrigknark.com/index.php?choice=category&id=337">Diverse</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Med jevne mellomrom dukker det opp rabatter og rabattkoder til å skaffe seg ny PC, hardware, fotoapparat, MP3-spiller, musikkanlegg, TV og elektronikk generelt." href="//www.gjerrigknark.com/index.php?choice=category&id=336">Elektronikk</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Her finner du rabattkoder innenfor områdene musikk og film. Inkludert CD, DVD, Blu-Ray og MP3." href="//www.gjerrigknark.com/index.php?choice=category&id=339">Film og musikk</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Våre besøkende er flinke til å tipse om ulike rabatter og rabattkoder, også innen området foto og fotografi. Hva er bedre enn rabatt på fremkalling når du likevel skal gjøre det?" href="//www.gjerrigknark.com/index.php?choice=category&id=342">Foto & fotorelatert</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Her finner du rabatter og rabattkoder til kles- og motebutikker på nett og i den virkelige verden. Her er det mye å spare for den prisbevisste gjerrigknark." href="//www.gjerrigknark.com/index.php?choice=category&id=334">Klær og sko</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Særlig kvinnelige gjerrigknarker vil elske denne kategorien: Rabatt på produkter som er godt for kropp og sjel." href="//www.gjerrigknark.com/index.php?choice=category&id=348">Kroppspleieprodukter</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Her finner du rabattkoder innenfor områdene mat og drikke." href="//www.gjerrigknark.com/index.php?choice=category&id=338">Mat og drikke</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Telefonregningen er ofte ekstra sur å betale for en gjerrigknark. Her kan du imidlertid få med deg de beste tilbudene for både bredbånd, mobil, fasttelefoni og andre nettprodukter." href="//www.gjerrigknark.com/index.php?choice=category&id=344">Mobil- & nettprodukter</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Å gå til anskaffelse av møbler og inventar er ofte svært kostbart. Her finner du rabatter og tilbud innen området." href="//www.gjerrigknark.com/index.php?choice=category&id=343">Møbler & inventar</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="For gjerrigknarker på farten har vi reise- og overnattingskategorien. Her kan du finne rabatter og rabattkoder til hotell, fly, buss, båt og bil." href="//www.gjerrigknark.com/index.php?choice=category&id=335">Reise og overnatting</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Her finner du rabatter og rabattkoder myntet på studenter. Gjerrigknarken har sett hauger av studentrabatter opp igjennom tidene, og erfaringsmessig kan det kan dreie seg om alt mulig fra hårklipp til sportsutstyr." href="//www.gjerrigknark.com/index.php?choice=category&id=340">Studentrabatter</a>					</li>
+					</ul></li><li class="level1">
+					<a class="menuLink parent"  data-flexmenu="flex384" data-dir="h" title="Kjøp av nødvendigheter som briller og linser er gjerne langt billigere på nett enn i vanlig butikk. I denne kategorien kan du også finne sportsbriller og goggles til alpint og snowboard." href="//www.gjerrigknark.com/Netthandel/">Guide til Netthandel</a><ul class="menu2 flexdropdownmenu" id="flex384"><li class="level2">
+					<a class="menuLink subMenu" title="Kjøp av nødvendigheter som briller og linser er gjerne langt billigere på nett enn i vanlig butikk. I denne kategorien kan du også finne sportsbriller og goggles til alpint og snowboard." href="//www.gjerrigknark.com/Netthandel/Briller-og-linser/">Briller & linser</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="I denne kategorien finner du utvalgte nettbutikker hvor du kan kjøpe bøker, magasiner og blader." href="//www.gjerrigknark.com/Netthandel/Boker-og-blader/">Bøker & blader</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Her er en oversikt over aktuelle nettbutikker som fører elektronikk, nettbrett, laptop, PC, TVer samt øvrige elektronikk- og lyd- og bildeprodukter." href="//www.gjerrigknark.com/Netthandel/Elektronikk-lyd-og-bilde/">Elektronikk, lyd & bilde</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Mange foretrekker papirkopier av bildene sine fremdeles. Her finner du nettbutikker innen foto og print." href="//www.gjerrigknark.com/Netthandel/Foto-og-print/">Foto & print</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="I denne kategorien finner du nettbutikker som er spesialisert på gaver og gadgets av alle slag. Perfekt når du skal planlegge bursdags- og julegaver." href="//www.gjerrigknark.com/Netthandel/Gaver-og-gadgets/">Gaver & gadgets</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="I denne kategorien finner du nyttige ting til hus, hjem og hage inkludert kjøkkenutstyr og verktøy." href="//www.gjerrigknark.com/Netthandel/Hjem-hus-og-hage/">Hjem, hus & hage</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Kjøp av hvitevarer online blir mer og mer vanlig. Her finner du nettbutikker som selger hvitevarer, brunevarer og øvrige husholdningsapparater." href="//www.gjerrigknark.com/Netthandel/Hvitevarer-og-husholdningsapparater/">Hvitevarer & husholdningsapparater</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Dette er kategorien for deg som leter etter nettbutikker som fører interiør, dekor, møbler og øvrige designprodukter til hjemmet." href="//www.gjerrigknark.com/Netthandel/Interior-mobler-og-design/">Interiør, møbler & design</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Her finner du mote og klær til kvinner, menn og barn fordelt på ulike klesbutikker på nett." href="//www.gjerrigknark.com/Netthandel/Klaer-og-mote/">Klær & mote</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="I denne kategorien finner du nettbutikker med alt du trenger til hjemmekontoret, inkludert blekk og toner til printere." href="//www.gjerrigknark.com/Netthandel/Kontorutstyr-og-rekvisita/">Kontorutstyr & -rekvisita</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Enten du tar kosttilskudd for treningens skyld eller av øvrige helsemessige årsaker - en oversikt over nettbutikker som fører kosttilskudd og proteiner finner du her." href="//www.gjerrigknark.com/Netthandel/Kosttilskudd-og-sportsernaering/">Kosttilskudd & sportsernæring</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Barn vil alltid være svake for leker. Her finner du nettbutikker spesialsert på leker og brettspill." href="//www.gjerrigknark.com/Netthandel/Leker-og-spill/">Leker & spill</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Flere steder i landet kan du nå handle mat og dagligvarer på nettet fra din egen stue. Varene blir enten kjørt hjem til deg, eller du plukker dem opp selv." href="//www.gjerrigknark.com/Netthandel/Mat-og-dagligvarer/">Mat & dagligvarer</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Her finner du nettbutikker som selger mobiltelefoner, mobilt bredbånd og tilbehør til mobiltelefon." href="//www.gjerrigknark.com/Netthandel/Mobiltelefon-og-tilbehor/">Mobiltelefon & tilbehør</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="I denne kategorien finner du en oversikt over nettbutikker som har spesialisert seg på sko og øvrig fottøy." href="//www.gjerrigknark.com/Netthandel/Sko-sokker-og-fottoy/">Sko, sokker & fottøy</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Sminke og øvrige kroppspleieprodukter kan være dyrt, men heldigvis er produktene ofte hakket billigere på nett. Det samme gjelder typiske hårprodukter." href="//www.gjerrigknark.com/Netthandel/Sminke-har-og-kroppspleie/">Sminke, hår- & kroppspleie</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Smykker og klokker kan du nå handle på internett. Fordelen er gjerne en langt større utvalg enn det du finner lokalt." href="//www.gjerrigknark.com/Netthandel/Smykker-og-klokker/">Smykker & klokker</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Her finner du nettbutikker som selger filmer og musikk i ulike formater, samt TV-spill til de ulike konsollene." href="//www.gjerrigknark.com/Netthandel/Spill-film-og-musikk/">Spill, film & musikk</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Her finner du nettbutikker for de aktive - som fører all slags sportsutstyr og turklær." href="//www.gjerrigknark.com/Netthandel/Sportsutstyr-trening-og-turklaer/">Sportsutstyr, trening- & turklær</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Bilen skal ha sitt. Flere og flere har funnet ut at det kan lønne seg å handle tilbehør som dekk, felger og øvrig utstyr online." href="//www.gjerrigknark.com/Netthandel/Tilbehor-og-deler-til-bil/">Tilbehør & deler til bil</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Undertøy og badtetøy kan gjerne ikke prøves eller returneres uansett, så en kan liksågodt kjøpe dette på internett og spare noen kroner." href="//www.gjerrigknark.com/Netthandel/Undertoy-og-badetoy/">Undertøy & badetøy</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="I denne kategorien finner du nettbutikker som har både klær og øvrig utstyr til barn og baby." href="//www.gjerrigknark.com/Netthandel/Utstyr-til-barn-og-baby/">Utstyr til barn & baby</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Her finner du nettbutikker som fører voksenartikler som leketøy, undertøy og liknende produkter." href="//www.gjerrigknark.com/Netthandel/Voksenartikler-og-leketoy/">Voksenartikler & leketøy</a>					</li>
+					</ul></li><li class="level1">
+					<a class="menuLink parent"  data-flexmenu="flex26" data-dir="h" title="Her lister vi konkurranser der de heldige kan vinne en bil." href="//www.gjerrigknark.com/konkurranser">Konkurranser & premier</a><ul class="menu2 flexdropdownmenu" id="flex26"><li class="level2">
+					<a class="menuLink subMenu" title="Her lister vi konkurranser der de heldige kan vinne en bil." href="//www.gjerrigknark.com/index.php?choice=category&id=115">Biler</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Selv her må vi ha en diverse kategori. Her finner du konkurranser med premier som ikke passer inn andre steder." href="//www.gjerrigknark.com/index.php?choice=category&id=109">Diverse</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="På jakt etter ny stereo, tv, elektrisk barbermaskin, komfyr, kjøleskap eller DVD-spiller? Hvis du er heldig finnes det en konkurranse i denne kategorien som har nettopp dette som premie." href="//www.gjerrigknark.com/index.php?choice=category&id=105">Elektriske Artikler</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Filmer på DVD er vanlig ha som premier i konkurranser, og har derfor blitt tilegnet en egen kategori." href="//www.gjerrigknark.com/index.php?choice=category&id=297">Film, DVD og Blu-Ray</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Noen er så rause at de har konkurranser med premier som er tilpasset huset. Nytt gulv kanskje? Eller feks en kommode?" href="//www.gjerrigknark.com/index.php?choice=category&id=113">Hus og innbo</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Det arrangeres stadig vekk konkurranser der man kan vinne kinobilletter. Felles for disse konkurransene er at det ofte er lettere å vinne her enn i de med \"flottere\" premier." href="//www.gjerrigknark.com/index.php?choice=category&id=294">Kinobilletter</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="I denne kategorien vil du finne konkurranser som har klær, ryggsekker, gardiner og andre ting laget av \"stoff\" som premie." href="//www.gjerrigknark.com/index.php?choice=category&id=106">Klær og myke ting</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Har du ikke skaffet deg billetter til din favorittkonsert? Da bør du ta deg en tur innom denne kategorien istedet. Hvem vet kanskje du kan skaffe de gratis med medhørende backstage pass?" href="//www.gjerrigknark.com/index.php?choice=category&id=295">Konsertbilletter</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Her finner du konkurranser der du kan vinne lodd med pengepremier og andre premier. For eksempel Flax lodd." href="//www.gjerrigknark.com/index.php?choice=category&id=296">Lodd</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Denne kategorien skal inneholde konkurranser der du kan skaffe deg ny mobiltelefon, erfaringsmessig er det veldig mange konkurranser som har nettopp dette som premie." href="//www.gjerrigknark.com/index.php?choice=category&id=104">Mobiltelefon</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Her finnes linker til konkurranser som har mopeder, scootere, motorsykler, snøscootere o.l. som premie." href="//www.gjerrigknark.com/index.php?choice=category&id=292">Motorsykkel og moped</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Musikk CD\'er er populære ting å ha som premier i konkurranser, og har derfor blitt tilegnet en egen kategori." href="//www.gjerrigknark.com/index.php?choice=category&id=110">Musikk, CD og MP3</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Mange konkurranser har MP3-spillere som premier. Her kan du vinne din MP3 spiller i dag!" href="//www.gjerrigknark.com/index.php?choice=category&id=291">Musikk- og MP3-spillere</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="På jakt etter nytt skjermkort, lydkort eller liknende? Kanskje du finner en konkurranse her som har akkurat det du leter etter som premie!" href="//www.gjerrigknark.com/index.php?choice=category&id=112">PC og hardware</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Er du ute etter å vinne hard og kald kapital eller \"penger\" i form av gavekort? Da er denne kategorien midt i blinken for deg." href="//www.gjerrigknark.com/index.php?choice=category&id=107">Penger og Gavekort</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Reisebyråer og liknende har iblant konkurranser der premien består av reiser til fjern og nær. Kanskje du er så heldig å vinne en tur til din drømmedestinasjon?" href="//www.gjerrigknark.com/index.php?choice=category&id=108">Reiser</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Her finner du konkurranser med små-premier som penner, blyanter o.l" href="//www.gjerrigknark.com/index.php?choice=category&id=114">Småting</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Denne kategorien er dedikert til spill og annen software du kan vinne på nettet. Alt fra PS2/PC spill til økonomiprogrammer. " href="//www.gjerrigknark.com/index.php?choice=category&id=111">Spill og programvare</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Her finner du linker til konkurranser der du kan vinne spillkonsoller som Playstation3 (PS3), Xbox360, Nintendo Wii, PSP, Nintendo DS, Playstation2 (PS2) og liknende." href="//www.gjerrigknark.com/index.php?choice=category&id=311">Spillkonsoller</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Her finner du konkurranser med sportsutstyr som premie." href="//www.gjerrigknark.com/index.php?choice=category&id=299">Sportsutstyr</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Har du lyst på en splitter ny sykkel? Da er dette rette kategori for deg!" href="//www.gjerrigknark.com/index.php?choice=category&id=300">Sykkel</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="På tide å bytte ut TV\'en? Her finner du konkurranser med TV\'er som premie." href="//www.gjerrigknark.com/index.php?choice=category&id=290">TV</a>					</li>
+					</ul></li><li class="level1">
+					<a class="menuLink parent"  data-flexmenu="flex23" data-dir="h" title="Her finner du norske og utenlandske affiliateløsninger som gjør at du kan tjene penger på bloggen, nettsiden eller vennene dine." href="//www.gjerrigknark.com/tjene_penger">Tjene penger</a><ul class="menu2 flexdropdownmenu" id="flex23"><li class="level2">
+					<a class="menuLink subMenu" title="Her finner du norske og utenlandske affiliateløsninger som gjør at du kan tjene penger på bloggen, nettsiden eller vennene dine." href="//www.gjerrigknark.com/index.php?choice=category&id=183">Inntekter fra blogg eller nettsider</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Hvis du deltar i spørreundersøkelser på internett kan du ofte tjene noen kroner eller få gavesjekker og lignende.
+
+
+
+For seriøse undersøkelser anbefaler vi å bli med i Gjerrigknarkens eget forbrukerpanel. Her får du tilsendt gode gammeldags spørreundersøkelser, uten noe tull - og du kan også tjene en slant med penger!" href="//www.gjerrigknark.com/index.php?choice=category&id=82">Spørreundersøkelser</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Her finner du en oversikt over hvor du kan tjene penger på å tipse ulike selskaper eller utføre småtjenester." href="//www.gjerrigknark.com/index.php?choice=category&id=80">Tips og småtjenester</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Her finner du sider på nett som hjelper deg å finne vanlige arbeid. I tillegg kan du finne sommerjobber og deltidsjobber om det skulle være av større interesse." href="//www.gjerrigknark.com/index.php?choice=category&id=293">Vanlig arbeid</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Her finner du andre muligheter du kan bruke for å tjene noen kroner på nettet." href="//www.gjerrigknark.com/index.php?choice=category&id=85">Øvrige muligheter</a>					</li>
+					</ul></li><li class="level1">
+					<a class="menuLink parent"  data-flexmenu="flex303" data-dir="h" title="Foreldre med barn har permanent utgifter. Da gjelder det å spare der man kan, uten at det går på bekostning av småbarnsgleden." href="//www.gjerrigknark.com/index.php?choice=category&id=303">Sparetips & triks</a><ul class="menu2 flexdropdownmenu" id="flex303"><li class="level2">
+					<a class="menuLink subMenu" title="Foreldre med barn har permanent utgifter. Da gjelder det å spare der man kan, uten at det går på bekostning av småbarnsgleden." href="//www.gjerrigknark.com/index.php?choice=category&id=381">Barnefamilie</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Ikke nok med at drivstoff er rådyrt i Norge (synes jeg), men alt som har med bil å gjøre, enten det er snakk om verkstedutgifter, kjøring eller parkering, gjør at jeg stadig er på utkikk etter nye tips som kan spare meg for noen kroner." href="//www.gjerrigknark.com/index.php?choice=category&id=371">Bil og kjøretøy</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Du tror det ikke er penger å spare på internettlinja di? Da tar du definitivt feil. Ikke gi fra deg unødig med penger til tilbyderne." href="//www.gjerrigknark.com/index.php?choice=category&id=378">Bredbånd</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Her finner du sparetipsene som ikke passer inn i de andre kategoriene, men de er minst like gode!" href="//www.gjerrigknark.com/index.php?choice=category&id=370">Diverse</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Nordmenn er altfor sløve til å spare penger på forsikringene sine, men det er virkelig tusenlapper å spare dersom du tar deg litt tid!" href="//www.gjerrigknark.com/index.php?choice=category&id=373">Forsikring</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Det er i hjemmet du virkelig kan spare på de små tingene, enten det gjelder på toalettet eller i hagen. Her finner du tipsene." href="//www.gjerrigknark.com/index.php?choice=category&id=372">Hjem og hage</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Du tilbringer sikkert mye tid på kjøkkenet, så da er det viktig å spare best mulig. Her finner du en masse nyttige triks!" href="//www.gjerrigknark.com/index.php?choice=category&id=374">Kjøkken</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Mobiltelefonen din er kanskje ditt viktigste «leketøy»? Men at det er penger å spare å bruke den og ha den riktige tilbyderen, det vet du vel også? I tillegg kommer smarte apps, som kan spare deg for mye penger." href="//www.gjerrigknark.com/index.php?choice=category&id=375">Mobiltelefoni</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Som gjerrigknark kan du spare mye penger på å holde orden på finansene. Kredittkort kan gi deg masse supre fordeler og spare deg for penger. Du sparer også mye på å finne og velge de beste lånene til bolig, bil osv." href="//www.gjerrigknark.com/index.php?choice=category&id=409">Penger, lån og kredittkort</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Pensjonister er vant til å snu på krona, enten fordi de er oppdratt slik eller fordi de er nødt til det. Her finner du spesielle sparetips, særlig beregnet på seniorene." href="//www.gjerrigknark.com/index.php?choice=category&id=380">Pensjonist</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Planlegger du en reise eller er du allerede på farta? Her finner du tipsene, særlig i planleggingen kan du spare gode penger som du kan bruke på noe annet underveis." href="//www.gjerrigknark.com/index.php?choice=category&id=377">Reise</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Du kan spare mye når du handler dagligvarer eller andre ting. Og for all del, på netthandel kan du være smartere enn vanlige forbrukere." href="//www.gjerrigknark.com/index.php?choice=category&id=383">Shopping og netthandel</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Ikke godta at ditt strømselskap øker prisene som de selv vil, du har valgmuligheten til å skifte. I tillegg er det viktig å spare strøm i heimen, så derfor finner du en rekke sparetips her." href="//www.gjerrigknark.com/index.php?choice=category&id=376">Strøm</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Mange tror studenter lever i sus og dus, men som oftest må studenter spare mer enn andre. I denne kategorien finner du tips som spesielt gjelder for studenter." href="//www.gjerrigknark.com/index.php?choice=category&id=379">Student</a>					</li>
+					</ul></li><li class="level1">
+					<a class="menuLink parent"  data-flexmenu="flex346" data-dir="h" title="I denne kategorien ligger tilbud som ikke passer inn under noen av de andre kategoriene." href="//www.gjerrigknark.com/index.php?choice=category&id=346">Gode tilbud & kampanjer</a><ul class="menu2 flexdropdownmenu" id="flex346"><li class="level2">
+					<a class="menuLink subMenu" title="I denne kategorien ligger tilbud som ikke passer inn under noen av de andre kategoriene." href="//www.gjerrigknark.com/index.php?choice=category&id=367">Diverse</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Det er ofte heftig priskrig på alt fra PC til TV. Det bør du utnytte. I tillegg er det mange kjekke velkomstgaver som gir deg billig elektronisk utstyr. Tipsene får du her av meg." href="//www.gjerrigknark.com/index.php?choice=category&id=364">Elektronikk og hvitevarer</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Innen helsekost kan du virkelig gjøre et kupp dersom du har orden i sysakene. Prøvepakker og gode tilbud er dagligdags når det gjelder helsekost." href="//www.gjerrigknark.com/index.php?choice=category&id=365">Helse og kosthold</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Å ha en passende hobby er herlig, ikke sant? Enten du liker å være ute i naturen eller pusle med hobbyen din innendørs, finner du gode tilbud her." href="//www.gjerrigknark.com/index.php?choice=category&id=362">Hobby og fritid</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Det finnes mange gode tilbud som gir deg billige ting  innen interiør og kjøkken. Her finner du de beste tipsene!" href="//www.gjerrigknark.com/index.php?choice=category&id=363">Interiør og kjøkken</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Alle jakter vi vel på gode tilbud når det gjelder klær, sko og vesker? Her finner du gode tilbud. Rabatter, velkomstgaver osv. er gode muligheter for å spare noen ekstra kroner." href="//www.gjerrigknark.com/index.php?choice=category&id=358">Klær, sko og vesker</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Kremer, parfyme og annen kroppspleie behøver ikke koste all verdens. Her finner du de supre tilbudene som du bør benytte deg av." href="//www.gjerrigknark.com/index.php?choice=category&id=366">Kroppspleie</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Er du en smart gjerrigknark med små barn, passer det kjekt med gode tilbud på leker. Tenk både bursdags- og julegaver god tid i forkant, da kan du gjøre et kupp her." href="//www.gjerrigknark.com/index.php?choice=category&id=359">Leker</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Til og med eksklusive varer som smykker og ur kan du finne i denne kategorien. Enten du leter etter noe til deg selv eller din partner, er dette stedet for deg som vil benytte deg av gode tilbud." href="//www.gjerrigknark.com/index.php?choice=category&id=360">Smykker og ur</a>					</li>
+					<li class="level2">
+					<a class="menuLink subMenu" title="Er du aktiv og trenger nytt utstyr eller treningsklær, bør du sjekke denne kategorien. Mye å velge blant!" href="//www.gjerrigknark.com/index.php?choice=category&id=361">Sport og trening</a>					</li>
+								</ul></li>
+
+			<br>
+			<!--<li><a class="menuLink" href="//www.gjerrigknark.com/?choice=deals">Dagens Deals</a></li>-->
+			<li  class="level1"><a class="menuLink" href="//www.gjerrigknark.com/index.php?choice=category&id=323">Gjerrigknarkens blogg</a></li>
+			<li  class="level1"><a class="menuLink" href="https://www.gjerrigknark.com/prissammenligning/mobilabonnement">&#x1f4f1; Finn mobilabonnement</a></li>
+			<!--<li  class="level1"><a class="menuLink" href="//www.gjerrigknark.com/?choice=humor">Humor, bilder og vitser</a></li>-->
+						<!--<li  class="level1"><a class="menuLink" href="//www.gjerrigknark.com/index.php?choice=youtube">Gjerrigknarkens videoblogg</a></li>-->
+		</ul>
+		<br/>
+		<br>
+
+					<div style="padding-left:20px;">
+				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+				<!-- GK: Under venstremeny [160x600] -->
+				<ins class="adsbygoogle"
+				     style="display:inline-block;width:160px;height:600px"
+				     data-ad-client="ca-pub-6098217712376523"
+				     data-ad-slot="7784765897"></ins>
+				<script>
+				(adsbygoogle = window.adsbygoogle || []).push({});
+				</script>
+			</div>
+			</div>
+				<br/>
+		</td>
+		<td align="left" valign="top">
+		<div id="mainContent" class="mainContent">
+<div class="frontPage" id="frontPage" style="width:770px;">
+
+	
+	<!--<iframe style="width:770px;height:45px;border:0;margin-top:0;padding:0;" scrolling="no" src="/widgets/deals.frontpage.snippet.v2.php"></iframe>-->
+	<div id="topSection" style="margin-top:-5px;">
+		<div id="topStory" style="float: left;">
+						<h1><a href="//www.gjerrigknark.com/Gratis-ting-og-vareprover/Diverse/Fa-gratis-strom-i-en-maned-gratistilbud-til-nye-kunder#ref=frtop" title="Få gratis strøm i en måned - gratistilbud til nye kunder!">
+				<img src="//www.gjerrigknark.com/bilder/10828-fa_gratis_strom_i_en_maned_gr.jpg" title="Få gratis strøm i en måned - gratistilbud til nye kunder!"/>
+				</a>
+				<a href="//www.gjerrigknark.com/Gratis-ting-og-vareprover/Diverse/Fa-gratis-strom-i-en-maned-gratistilbud-til-nye-kunder#ref=frtop" title="Få gratis strøm i en måned - gratistilbud til nye kunder!">Få gratis strøm i en måned - gratistilbud til nye kunder!</a>
+			</h1>
+					<p>
+						Nå som kulda snart setter inn, er det smart å spare noen hundringser på strømmen. Fortum gir deg en måned helt gratis strøm - og det er jo perfekt å utnytte i disse høsttider!					</p>
+
+					<p style="float:right;">
+						<a href="//www.gjerrigknark.com/Gratis-ting-og-vareprover/Diverse/Fa-gratis-strom-i-en-maned-gratistilbud-til-nye-kunder#ref=frtop" title="Les mer om 'Få gratis strøm i en måned - gratistilbud til nye kunder!'" class="readMore">Les mer</a>
+					</p>
+					</div>
+
+			
+	<div style="margin-top: 10px;" class="story rightColumn float-right">
+						<h4><img style="float: left;margin:0px;padding:0px;margin-right: 2px;margin-top: -10px;" align="left" src="//www.gjerrigknark.com/images/logo_32x32.gif"/>				<a href="//www.gjerrigknark.com/index.php?choice=category&id=323" title="Se mer fra Gjerrigknarkens blogg">Gjerrigknarkens blogg</a></h4>
+				<h2><a href="//www.gjerrigknark.com/Gjerrigknarkens-blogg/13-tips-til-deg-som-vil-prove-Dumpster-Diving#ref=frblog" title="13 tips til deg som vil prøve Dumpster Diving">13 tips til deg som vil prøve Dumpster Diving</a></h2>
+				<a title="13 tips til deg som vil prøve Dumpster Diving" href="//www.gjerrigknark.com/Gjerrigknarkens-blogg/13-tips-til-deg-som-vil-prove-Dumpster-Diving#ref=frblog">
+					<img src="//www.gjerrigknark.com/bilder/10845-13_tips_til_deg_som_vil_prove.jpg" alt="13 tips til deg som vil prøve Dumpster Diving" title="Les mer om '13 tips til deg som vil prøve Dumpster Diving'"/>
+				</a>
+				<p>Enten du vil spare penger eller protestere mot alt som kastes av matvarer, kan du forsøke dumpster diving. Butikkenes containere er fulle av godbiter som du kan få tak i. Her får du triksene som hjelper deg i gang!....</p>
+
+				<p><a href="//www.gjerrigknark.com/Gjerrigknarkens-blogg/13-tips-til-deg-som-vil-prove-Dumpster-Diving#ref=frblog" title="Les hele artikkelen om '13 tips til deg som vil prøve Dumpster Diving'" class="readMore">Les mer</a>
+				</p>
+			
+		<br/>
+		
+
+		
+		<div>
+							<div style="clear:both;">&nbsp;</div>
+				<h4><img style="float: left;margin:0px;padding:0px;margin-right: 2px;margin-top: 0px;" align="left" src="//www.kredittportalen.no/img/favicon.png">
+					<a href="http://www.kredittportalen.no" title="Kredittportalen.no"> Gjesteinnlegg Kredittportalen.no:</a></h4>
+					<h2><a target="_blank" href="https://www.kredittportalen.no/tester/Test-av-Shell-Mastercard?utm_source=gk-feat">Test av Shell MasterCard</a></h2>
+					<a target="_blank" href="https://www.kredittportalen.no/tester/Test-av-Shell-Mastercard?utm_source=gk-feat"><img src="https://www.kredittportalen.no/img/artikler/Test-av-shell-mastercard-kredittkort.jpg" style="max-width:120px;max-height:90;overflow:hidden;"></a>
+					<p>De gamle bensinkortene som tidligere kun ble brukt til nettopp &aring; betale bensin og varer p&aring; bensinstasjonen, har n&aring; blitt byttet ut med kredittkort som riktignok b&aelig;rer bensinstasjonenes navn, men ogs&aring; fint kan brukes i andre sammenhenger. Et av disse er Shell MasterCard. Vi har testet Shell MasterCard og ser n&aelig;rmere p&aring; i hvilke sammenhenger kredittkortet egner seg for bruk, hva det koster i gebyrer og avgifter og hvilke fordeler du f&aring;r ved &aring; bruke det.
+</p>
+					<p><a target="_blank" href="https://www.kredittportalen.no/tester/Test-av-Shell-Mastercard?utm_source=gk-feat" class="readMore">Les mer</a>
+				</p>
+				</a>
+					</div>
+		
+		<div style="margin-top: 20px;margin-left: -5px;" class="story rightColumn">
+								<fb:like-box css="//www.gjerrigknark.com/css/fbfanbox.css?v=0003" style="margin-left: 10px;border: none;" profile_id="5547204903" width="240" height="375" connections="16" stream="false" header="true" border="#ffffff"></fb:like-box>
+						</div>		
+		
+		<div style="padding-top: 20px;margin-left: 5px;">
+						<div style="clear: both;margin-top: 15px;">
+					<div style="clear: both;float: left;">
+						<img style="display: block; float: left;margin: 0px;margin-right: 10px;margin-top: 4px;" src="//www.gjerrigknark.com/images/pil_rod.gif"/>
+						<a rel="nofollow" style="padding: 0px; margin: 0px;background-image: none;display: block;float: right;width: 215px;clear:right;" href="//www.gjerrigknark.com/visit.php?id=37661#ref=spaid" target="_blank">
+							<span style="color:#335EA8;font-family:Tahoma,bold;font-size:12pt;font-weight:900;">Få trådløse hodetelefoner og 2 utg. av Komputer for alle for 89 kr INKL. porto</span>
+						</a>
+					</div>
+
+					<div style="clear: both;float:left;margin-top: 10px;">
+						<a rel="nofollow" style="float: right;padding: 0px; margin: 0px;background-image: none;" href="//www.gjerrigknark.com/visit.php?id=37661#ref=spaid" target="_blank">
+							<img style="" title="Få trådløse hodetelefoner og 2 utg. av Komputer for alle for 89 kr INKL. porto" src="//www.gjerrigknark.com/bilder/10799-fa_tradlose_hodetelefoner_og_2.jpg">
+						</a>
+
+						<div font-size:8pt;color:black;">
+							Gjør et røverkjøp dersom du vil ha et par trådløse hodetelefoner: For kr 89 inkl. porto får du 2 utgaver av Komputer for alle og et trådløst headset verdt kr 599. Du bestemmer selv om du vil fortsette abonnementet.						</div>
+					</div>
+
+					<div style="clear: both; float:right;margin-top: 10px;">
+						<img style="display: block; float: left;clear:left;margin:0px;" src="//www.gjerrigknark.com/images/linkarrow.gif"/>
+						<a rel="nofollow" style="background-image: none;display: block;float:left;margin:0px;padding:0px;margin-top: 3px;margin-right: 10px;margin-bottom: 15px;color:gray;font-weight: bold;" href="//www.gjerrigknark.com/visit.php?id=37661#ref=spaid" target="_blank">Bes&oslash;k linken</a>
+					</div>
+			</div>
+					</div>
+
+		<div style="margin-top: 10px;">
+						<div style="clear: both;margin-top: 15px;">
+					<div style="clear: both;float: left;">
+						<img style="display: block; float: left;margin: 0px;margin-right: 10px;margin-top: 4px;" src="//www.gjerrigknark.com/images/pil_rod.gif"/>
+						<a rel="nofollow" style="padding: 0px; margin: 0px;background-image: none;display: block;float: right;width: 215px;clear:right;" href="//www.gjerrigknark.com/visit.php?id=37688#ref=spaid" target="_blank">
+							<span style="color:#335EA8;font-family:Tahoma,bold;font-size:12pt;font-weight:900;">Få GRATIS støpejernsgryte i rød emalje</span>
+						</a>
+					</div>
+
+					<div style="clear: both;float:left;margin-top: 10px;">
+						<a rel="nofollow" style="float: right;padding: 0px; margin: 0px;background-image: none;" href="//www.gjerrigknark.com/visit.php?id=37688#ref=spaid" target="_blank">
+							<img style="" title="Få GRATIS støpejernsgryte i rød emalje" src="//www.gjerrigknark.com/bilder/10812-fa_rod_stopejernsgryte.jpg">
+						</a>
+
+						<div font-size:8pt;color:black;">
+							I dette velkomsttilbudet får du en flott, rød gryte i støpejern verdt 599 kroner og to bøker. Gryten er i klassisk fransk stil og kan brukes på alle varmekilder, også induksjon. Ingen kjøpsforpliktelser.						</div>
+					</div>
+
+					<div style="clear: both; float:right;margin-top: 10px;">
+						<img style="display: block; float: left;clear:left;margin:0px;" src="//www.gjerrigknark.com/images/linkarrow.gif"/>
+						<a rel="nofollow" style="background-image: none;display: block;float:left;margin:0px;padding:0px;margin-top: 3px;margin-right: 10px;margin-bottom: 15px;color:gray;font-weight: bold;" href="//www.gjerrigknark.com/visit.php?id=37688#ref=spaid" target="_blank">Bes&oslash;k linken</a>
+					</div>
+			</div>
+								</div>
+	
+
+		<br><br>
+
+		<div style="margin-left:-10px;clear:both;width:300px;text-align:center;float:left;overflow:visible;margin-bottom:15px;">
+			<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+			<!-- GK: Forside hÃ¸yre [300x250] -->
+			<ins class="adsbygoogle"
+			     style="display:inline-block;width:300px;height:250px"
+			     data-ad-client="ca-pub-6098217712376523"
+			     data-ad-slot="5015230694"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>			
+		</div>
+		
+		<div style="clear:both;">&nbsp;</div>
+				
+		<!--<div style="overflow:visible;clear:both;float:left;width:270px;">
+			<a href="/?choice=humor"><img style="border:0;margin-top:20px;width:270px;" src="/images/gjerrig.banner.jpg"></a>
+		</div>-->
+
+
+
+				
+				
+		<div style=" display: none;
+    		margin-bottom: 15px;
+   			 overflow: hidden;
+    		padding-left: 50px;">
+			
+				<!--<iframe src="http://tracking1.euroads.no/system/showadv.php?sid=3&cpid=2028&adid=43448&acid=49&eatrackid=14123" width=300 height=250 marginwidth=0 marginheight=0 ALLOWTRANSPARENCY=true frameborder=0 scrolling=no bordercolor=#000000 hspace=0 vspace=0></iframe>-->
+				<!--<a href="http://www.lectinect.no/stores/palm/directlinking/?tt=8469_320502_81337_web-banner-side&amp;r=" target="_blank"><img src="http://ti.tradetracker.net/?c=8469&amp;m=320502&amp;a=81337&amp;r=web-banner-side&amp;t=html" width="180" height="150" border="0" alt="" /></a>-->
+						</div>
+		
+		<div style="clear:both;">&nbsp;</div>
+
+		<div style="margin-top: 10px;">
+						<div style="clear: both;margin-top: 15px;">
+					<div style="clear: both;float: left;">
+						<img style="display: block; float: left;margin: 0px;margin-right: 10px;margin-top: 4px;" src="//www.gjerrigknark.com/images/pil_rod.gif"/>
+						<a rel="nofollow" style="padding: 0px; margin: 0px;background-image: none;display: block;float: right;width: 215px;clear:right;" href="//www.gjerrigknark.com/visit.php?id=37338#ref=spaid" target="_blank">
+							<span style="color:#335EA8;font-family:Tahoma,bold;font-size:12pt;font-weight:900;">Prøv en Detox-kur gratis - naturlig rens for kroppen</span>
+						</a>
+					</div>
+
+					<div style="clear: both;float:left;margin-top: 10px;">
+						<a rel="nofollow" style="float: right;padding: 0px; margin: 0px;background-image: none;" href="//www.gjerrigknark.com/visit.php?id=37338#ref=spaid" target="_blank">
+							<img style="" title="Prøv en Detox-kur gratis - naturlig rens for kroppen" src="//www.gjerrigknark.com/bilder/10647-prov_en_detoxkur_gratis_natur.jpg">
+						</a>
+
+						<div font-size:8pt;color:black;">
+							Vil du prøve en Detox-kur for å se om du blir bedre rustet for hverdagen, kan du bestille en gratis prøvepakke som gir deg en mulighet til å teste om dette er noe for deg. Det eneste du må dekke er kr 49 i porto og ekspedisjon. Husk å gi beskjed dersom du ikke ønsker flere leveranser.						</div>
+					</div>
+
+					<div style="clear: both; float:right;margin-top: 10px;">
+						<img style="display: block; float: left;clear:left;margin:0px;" src="//www.gjerrigknark.com/images/linkarrow.gif"/>
+						<a rel="nofollow" style="background-image: none;display: block;float:left;margin:0px;padding:0px;margin-top: 3px;margin-right: 10px;margin-bottom: 15px;color:gray;font-weight: bold;" href="//www.gjerrigknark.com/visit.php?id=37338#ref=spaid" target="_blank">Bes&oslash;k linken</a>
+					</div>
+			</div>
+					</div>
+		
+		<div style="margin-top: 10px;">
+						<div style="clear: both;margin-top: 15px;">
+					<div style="clear: both;float: left;">
+						<img style="display: block; float: left;margin: 0px;margin-right: 10px;margin-top: 4px;" src="//www.gjerrigknark.com/images/pil_rod.gif"/>
+						<a rel="nofollow" style="padding: 0px; margin: 0px;background-image: none;display: block;float: right;width: 215px;clear:right;" href="//www.gjerrigknark.com/visit.php?id=37395#ref=spaid" target="_blank">
+							<span style="color:#335EA8;font-family:Tahoma,bold;font-size:12pt;font-weight:900;">50PlusMatch - dating for deg over 50</span>
+						</a>
+					</div>
+
+					<div style="clear: both;float:left;margin-top: 10px;">
+						<a rel="nofollow" style="float: right;padding: 0px; margin: 0px;background-image: none;" href="//www.gjerrigknark.com/visit.php?id=37395#ref=spaid" target="_blank">
+							<img style="" title="50PlusMatch - dating for deg over 50" src="//www.gjerrigknark.com/bilder/10688-50plusmatch_dating_for_deg_ov.jpg">
+						</a>
+
+						<div font-size:8pt;color:black;">
+							50PlusMatch er en datingside for alle over 50 år som vil bli kjent med nye mennesker. Datingsiden har en gratis prøveperiode på 3 dager, og det er enkelt å registrere seg for å sjekke ut siden.						</div>
+					</div>
+
+					<div style="clear: both; float:right;margin-top: 10px;">
+						<img style="display: block; float: left;clear:left;margin:0px;" src="//www.gjerrigknark.com/images/linkarrow.gif"/>
+						<a rel="nofollow" style="background-image: none;display: block;float:left;margin:0px;padding:0px;margin-top: 3px;margin-right: 10px;margin-bottom: 15px;color:gray;font-weight: bold;" href="//www.gjerrigknark.com/visit.php?id=37395#ref=spaid" target="_blank">Bes&oslash;k linken</a>
+					</div>
+			</div>
+					</div>
+
+		<div style="margin-top: 10px;">
+						<div style="clear: both;margin-top: 15px;">
+					<div style="clear: both;float: left;">
+						<img style="display: block; float: left;margin: 0px;margin-right: 10px;margin-top: 4px;" src="//www.gjerrigknark.com/images/pil_rod.gif"/>
+						<a rel="nofollow" style="padding: 0px; margin: 0px;background-image: none;display: block;float: right;width: 215px;clear:right;" href="//www.gjerrigknark.com/visit.php?id=37412#ref=spaid" target="_blank">
+							<span style="color:#335EA8;font-family:Tahoma,bold;font-size:12pt;font-weight:900;">Få multifunksjonsjakke for dame og herre verdt 599 kroner</span>
+						</a>
+					</div>
+
+					<div style="clear: both;float:left;margin-top: 10px;">
+						<a rel="nofollow" style="float: right;padding: 0px; margin: 0px;background-image: none;" href="//www.gjerrigknark.com/visit.php?id=37412#ref=spaid" target="_blank">
+							<img style="" title="Få multifunksjonsjakke for dame og herre verdt 599 kroner" src="//www.gjerrigknark.com/bilder/10695-fa_multifunksjonsjakke_for_dam.jpg">
+						</a>
+
+						<div font-size:8pt;color:black;">
+							Dersom du bestiller 2 utgaver av bladet Historie for kr 49,50, får du samtidig en multifunksjonsjakke verdt 599 kroner. Du kan velge både dame- og herrestørrelse. Et skikkelig kupp! Du kan stoppe abonnementet når du selv ønsker det. Porto kr 39,50 tilkommer.						</div>
+					</div>
+
+					<div style="clear: both; float:right;margin-top: 10px;">
+						<img style="display: block; float: left;clear:left;margin:0px;" src="//www.gjerrigknark.com/images/linkarrow.gif"/>
+						<a rel="nofollow" style="background-image: none;display: block;float:left;margin:0px;padding:0px;margin-top: 3px;margin-right: 10px;margin-bottom: 15px;color:gray;font-weight: bold;" href="//www.gjerrigknark.com/visit.php?id=37412#ref=spaid" target="_blank">Bes&oslash;k linken</a>
+					</div>
+			</div>
+					</div>				
+		
+		<!--
+		<div style="overflow:visible;width:300px;">
+			<script type="text/javascript" src="http://liveads.no/GetAd.js"></script>
+			<script type="text/javascript">
+			var LA_ProductID=465;
+			var LA_Width=300;
+			var LA_Height=250;
+			//LA_Keywords="stikkord|stikkord2|stikkord3";
+			LA_GetAd();
+			</script>
+		</div>-->
+
+
+
+
+
+			</div>
+
+	<div class="story leftColumn">
+						<h4>				<a href="//www.gjerrigknark.com/index.php?choice=category&id=363" title="Se mer fra Gode tilbud & kampanjer/Interiør og kjøkken">Gode tilbud & kampanjer</a></h4>
+				<h2><a href="//www.gjerrigknark.com/Gode-tilbud-og-kampanjer/Interior-og-kjokken/Fa-Bering-Akande-vase-verdt-679-kroner#ref=frsto" title="Få Bering Åkande vase verdt 679 kroner">Få Bering Åkande vase verdt 679 kroner</a></h2>
+				<a title="Få Bering Åkande vase verdt 679 kroner" href="//www.gjerrigknark.com/Gode-tilbud-og-kampanjer/Interior-og-kjokken/Fa-Bering-Akande-vase-verdt-679-kroner#ref=frsto">
+					<img src="//www.gjerrigknark.com/bilder/10851-fa_bering_akande_vase_verdt_67.jpg" alt="Få Bering Åkande vase verdt 679 kroner" title="Les mer om 'Få Bering Åkande vase verdt 679 kroner'"/>
+				</a>
+				<p>Den klassiske Åkandevasen fra Bering verdt 679 kroner er velkomstgaven du får hvis du bestiller 5 utgaver av interiørbla....</p>
+
+				<p><a href="//www.gjerrigknark.com/Gode-tilbud-og-kampanjer/Interior-og-kjokken/Fa-Bering-Akande-vase-verdt-679-kroner#ref=frsto" title="Les hele artikkelen om 'Få Bering Åkande vase verdt 679 kroner'" class="readMore">Les mer</a>
+				</p>
+				</div>
+		<div class="story middleColumn">
+						<h4>				<a href="//www.gjerrigknark.com/index.php?choice=category&id=106" title="Se mer fra Konkurranser/Klær og myke ting">Konkurranser/Klær og myke ting</a></h4>
+				<h2><a href="//www.gjerrigknark.com/Konkurranser/Klaer-og-myke-ting/Vinn-klaer-fra-Skogstad-verdt-5-000-kroner-i-enkel-konkurranse#ref=frsto" title="Vinn klær fra Skogstad verdt 5 000 kroner i enkel konkurranse">Vinn klær fra Skogstad verdt 5 000 kroner i enkel konkurranse</a></h2>
+				<a title="Vinn klær fra Skogstad verdt 5 000 kroner i enkel konkurranse" href="//www.gjerrigknark.com/Konkurranser/Klaer-og-myke-ting/Vinn-klaer-fra-Skogstad-verdt-5-000-kroner-i-enkel-konkurranse#ref=frsto">
+					<img src="//www.gjerrigknark.com/bilder/10855-vinn_klaer_fra_skogstad_verdt.jpg" alt="Vinn klær fra Skogstad verdt 5 000 kroner i enkel konkurranse" title="Les mer om 'Vinn klær fra Skogstad verdt 5 000 kroner i enkel konkurranse'"/>
+				</a>
+				<p>Det hadde jo vært perfekt for den kalde årstiden å vinne klær fra Skogstad verdt 5 000 kroner! Jeg gir deg svarene, så d....</p>
+
+				<p><a href="//www.gjerrigknark.com/Konkurranser/Klaer-og-myke-ting/Vinn-klaer-fra-Skogstad-verdt-5-000-kroner-i-enkel-konkurranse#ref=frsto" title="Les hele artikkelen om 'Vinn klær fra Skogstad verdt 5 000 kroner i enkel konkurranse'" class="readMore">Les mer</a>
+				</p>
+				</div>
+		<div class="story leftColumn">
+						<h4>				<a href="//www.gjerrigknark.com/index.php?choice=category&id=12" title="Se mer fra Gratis ting & vareprøver/Matvarer, drikke og søtsaker">Gratis ting & vareprøver</a></h4>
+				<h2><a href="//www.gjerrigknark.com/Gratis-ting-og-vareprover/Matvarer-drikke-og-sotsaker/Vil-du-teste-Polarbrod-Mykt-Tynnbrod-Rug#ref=frsto" title="Vil du teste Polarbröd Mykt Tynnbrød Rug?">Vil du teste Polarbröd Mykt Tynnbrød Rug?</a></h2>
+				<a title="Vil du teste Polarbröd Mykt Tynnbrød Rug?" href="//www.gjerrigknark.com/Gratis-ting-og-vareprover/Matvarer-drikke-og-sotsaker/Vil-du-teste-Polarbrod-Mykt-Tynnbrod-Rug#ref=frsto">
+					<img src="//www.gjerrigknark.com/bilder/10854-vil_du_teste_polarbrod_mykt_ty.jpg" alt="Vil du teste Polarbröd Mykt Tynnbrød Rug?" title="Les mer om 'Vil du teste Polarbröd Mykt Tynnbrød Rug?'"/>
+				</a>
+				<p>Dersom du søker om å bli en av 300 testere, kan det hende du blir plukket ut til å motta tynnbrød fra Polarbröd til test....</p>
+
+				<p><a href="//www.gjerrigknark.com/Gratis-ting-og-vareprover/Matvarer-drikke-og-sotsaker/Vil-du-teste-Polarbrod-Mykt-Tynnbrod-Rug#ref=frsto" title="Les hele artikkelen om 'Vil du teste Polarbröd Mykt Tynnbrød Rug?'" class="readMore">Les mer</a>
+				</p>
+				</div>
+		<div class="story middleColumn">
+						<h4>				<a href="//www.gjerrigknark.com/index.php?choice=category&id=371" title="Se mer fra Sparetips/Bil og kjøretøy">Sparetips/Bil og kjøretøy</a></h4>
+				<h2><a href="//www.gjerrigknark.com/Sparetips/Bil-og-kjoretoy/Spar-inntil-2-000-kroner-per-ar-pa-drivstoffutgiftene#ref=frsto" title="Spar inntil 2 000 kroner per år på drivstoffutgiftene">Spar inntil 2 000 kroner per år på drivstoffutgiftene</a></h2>
+				<a title="Spar inntil 2 000 kroner per år på drivstoffutgiftene" href="//www.gjerrigknark.com/Sparetips/Bil-og-kjoretoy/Spar-inntil-2-000-kroner-per-ar-pa-drivstoffutgiftene#ref=frsto">
+					<img src="//www.gjerrigknark.com/bilder/10848-spar_inntil_2_000_kroner_per_a.jpg" alt="Spar inntil 2 000 kroner per år på drivstoffutgiftene" title="Les mer om 'Spar inntil 2 000 kroner per år på drivstoffutgiftene'"/>
+				</a>
+				<p>Jeg anbefaler flere kort som gir deg rabatt på forskjellige stasjoner, men mange orker ikke tanken på å ha mange kort i ....</p>
+
+				<p><a href="//www.gjerrigknark.com/Sparetips/Bil-og-kjoretoy/Spar-inntil-2-000-kroner-per-ar-pa-drivstoffutgiftene#ref=frsto" title="Les hele artikkelen om 'Spar inntil 2 000 kroner per år på drivstoffutgiftene'" class="readMore">Les mer</a>
+				</p>
+				</div>
+		<div class="story leftColumn">
+						<h4>				<a href="//www.gjerrigknark.com/index.php?choice=category&id=383" title="Se mer fra Sparetips/Shopping og netthandel">Sparetips/Shopping og netthandel</a></h4>
+				<h2><a href="//www.gjerrigknark.com/Sparetips/Shopping-og-netthandel/Trippel-Trumf-torsdag-13-oktober#ref=frsto" title="Trippel-Trumf torsdag 13. oktober">Trippel-Trumf torsdag 13. oktober</a></h2>
+				<a title="Trippel-Trumf torsdag 13. oktober" href="//www.gjerrigknark.com/Sparetips/Shopping-og-netthandel/Trippel-Trumf-torsdag-13-oktober#ref=frsto">
+					<img src="//www.gjerrigknark.com/bilder/10852-trippeltrumf_torsdag_13_oktobe.jpg" alt="Trippel-Trumf torsdag 13. oktober" title="Les mer om 'Trippel-Trumf torsdag 13. oktober'"/>
+				</a>
+				<p>Kommende torsdag er det igjen tid for å spare litt ekstra når du handler i kjedene Kiwi, Meny, Spar, Joker og Jacobs. De....</p>
+
+				<p><a href="//www.gjerrigknark.com/Sparetips/Shopping-og-netthandel/Trippel-Trumf-torsdag-13-oktober#ref=frsto" title="Les hele artikkelen om 'Trippel-Trumf torsdag 13. oktober'" class="readMore">Les mer</a>
+				</p>
+				</div>
+		<div class="story middleColumn">
+						<h4>				<a href="//www.gjerrigknark.com/index.php?choice=category&id=297" title="Se mer fra Konkurranser/Film, DVD og Blu-Ray">Konkurranser/Film, DVD og Blu-Ray</a></h4>
+				<h2><a href="//www.gjerrigknark.com/Konkurranser/Film-DVD-og-Blu-Ray/Vinn-10-valgfrie-blu-ray-filmer-i-filmquiz#ref=frsto" title="Vinn 10 valgfrie blu-ray filmer i filmquiz">Vinn 10 valgfrie blu-ray filmer i filmquiz</a></h2>
+				<a title="Vinn 10 valgfrie blu-ray filmer i filmquiz" href="//www.gjerrigknark.com/Konkurranser/Film-DVD-og-Blu-Ray/Vinn-10-valgfrie-blu-ray-filmer-i-filmquiz#ref=frsto">
+					<img src="//www.gjerrigknark.com/bilder/10849-vinn_10_valgfrie_bluray_filmer.jpg" alt="Vinn 10 valgfrie blu-ray filmer i filmquiz" title="Les mer om 'Vinn 10 valgfrie blu-ray filmer i filmquiz'"/>
+				</a>
+				<p>I denne konkurransen (jeg har svarene!) til Platekompaniet kan du vinne 10 valgfrie blu-ray filmer. Kjekk premie og ikke....</p>
+
+				<p><a href="//www.gjerrigknark.com/Konkurranser/Film-DVD-og-Blu-Ray/Vinn-10-valgfrie-blu-ray-filmer-i-filmquiz#ref=frsto" title="Les hele artikkelen om 'Vinn 10 valgfrie blu-ray filmer i filmquiz'" class="readMore">Les mer</a>
+				</p>
+				</div>
+		<div class="story leftColumn">
+						<h4>				<a href="//www.gjerrigknark.com/index.php?choice=category&id=13" title="Se mer fra Gratis ting & vareprøver/Barn og baby">Gratis ting & vareprøver/Barn og baby</a></h4>
+				<h2><a href="//www.gjerrigknark.com/Gratis-ting-og-vareprover/Barn-og-baby/Fa-4-gratis-gaver-til-din-baby#ref=frsto" title="Få 4 gratis gaver til din baby">Få 4 gratis gaver til din baby</a></h2>
+				<a title="Få 4 gratis gaver til din baby" href="//www.gjerrigknark.com/Gratis-ting-og-vareprover/Barn-og-baby/Fa-4-gratis-gaver-til-din-baby#ref=frsto">
+					<img src="//www.gjerrigknark.com/bilder/10846-fa_4_gratis_gaver_til_din_baby.jpg" alt="Få 4 gratis gaver til din baby" title="Les mer om 'Få 4 gratis gaver til din baby'"/>
+				</a>
+				<p>Nye medlemmer i Goboken får en babypakke med mykbok, bleieveske, kartongbok og milepælkort. Velkomstpakken er gratis, de....</p>
+
+				<p><a href="//www.gjerrigknark.com/Gratis-ting-og-vareprover/Barn-og-baby/Fa-4-gratis-gaver-til-din-baby#ref=frsto" title="Les hele artikkelen om 'Få 4 gratis gaver til din baby'" class="readMore">Les mer</a>
+				</p>
+				</div>
+		<div class="story middleColumn">
+						<h4>				<a href="//www.gjerrigknark.com/index.php?choice=category&id=11" title="Se mer fra Gratis ting & vareprøver/Kroppspleie og parfyme">Gratis ting & vareprøver</a></h4>
+				<h2><a href="//www.gjerrigknark.com/Gratis-ting-og-vareprover/Kroppspleie-og-parfyme/Fa-helt-gratis-Listerine-munnskyllevann-verdt-99-kroner#ref=frsto" title="Få helt gratis Listerine munnskyllevann verdt 99 kroner">Få helt gratis Listerine munnskyllevann verdt 99 kroner</a></h2>
+				<a title="Få helt gratis Listerine munnskyllevann verdt 99 kroner" href="//www.gjerrigknark.com/Gratis-ting-og-vareprover/Kroppspleie-og-parfyme/Fa-helt-gratis-Listerine-munnskyllevann-verdt-99-kroner#ref=frsto">
+					<img src="//www.gjerrigknark.com/bilder/10847-fa_helt_gratis_listerine_munns.jpg" alt="Få helt gratis Listerine munnskyllevann verdt 99 kroner" title="Les mer om 'Få helt gratis Listerine munnskyllevann verdt 99 kroner'"/>
+				</a>
+				<p>Registrerer du deg gratis i kundeklubben til Vitusapotek, får du nå i oktober en flaske gratis Listerine skyllevann verd....</p>
+
+				<p><a href="//www.gjerrigknark.com/Gratis-ting-og-vareprover/Kroppspleie-og-parfyme/Fa-helt-gratis-Listerine-munnskyllevann-verdt-99-kroner#ref=frsto" title="Les hele artikkelen om 'Få helt gratis Listerine munnskyllevann verdt 99 kroner'" class="readMore">Les mer</a>
+				</p>
+				</div>
+		<div class="story leftColumn">
+						<h4>				<a href="//www.gjerrigknark.com/index.php?choice=category&id=364" title="Se mer fra Gode tilbud & kampanjer/Elektronikk og hvitevarer">Gode tilbud & kampanjer</a></h4>
+				<h2><a href="//www.gjerrigknark.com/Gode-tilbud-og-kampanjer/Elektronikk-og-hvitevarer/Fa-tradlose-hodetelefoner-til-under-hundringsen#ref=frsto" title="Få trådløse hodetelefoner til under hundringsen">Få trådløse hodetelefoner til under hundringsen</a></h2>
+				<a title="Få trådløse hodetelefoner til under hundringsen" href="//www.gjerrigknark.com/Gode-tilbud-og-kampanjer/Elektronikk-og-hvitevarer/Fa-tradlose-hodetelefoner-til-under-hundringsen#ref=frsto">
+					<img src="//www.gjerrigknark.com/bilder/10844-fa_tradlose_hodetelefoner_til.jpg" alt="Få trådløse hodetelefoner til under hundringsen" title="Les mer om 'Få trådløse hodetelefoner til under hundringsen'"/>
+				</a>
+				<p>Er du lei av kabler og slikt, er det kanskje på tide med trådløse hodetelefoner? I alle fall når det er velkomstgave til....</p>
+
+				<p><a href="//www.gjerrigknark.com/Gode-tilbud-og-kampanjer/Elektronikk-og-hvitevarer/Fa-tradlose-hodetelefoner-til-under-hundringsen#ref=frsto" title="Les hele artikkelen om 'Få trådløse hodetelefoner til under hundringsen'" class="readMore">Les mer</a>
+				</p>
+				</div>
+		<div class="story middleColumn">
+						<h4>				<a href="//www.gjerrigknark.com/index.php?choice=category&id=290" title="Se mer fra Konkurranser/TV">Konkurranser/TV</a></h4>
+				<h2><a href="//www.gjerrigknark.com/Konkurranser/TV/Vinn-Samsung-TV-verdt-ca-7000-kroner-i-enkel-konkurranse#ref=frsto" title="Vinn Samsung TV verdt ca 7 000 kroner i enkel konkurranse">Vinn Samsung TV verdt ca 7 000 kroner i enkel konkurranse</a></h2>
+				<a title="Vinn Samsung TV verdt ca 7 000 kroner i enkel konkurranse" href="//www.gjerrigknark.com/Konkurranser/TV/Vinn-Samsung-TV-verdt-ca-7000-kroner-i-enkel-konkurranse#ref=frsto">
+					<img src="//www.gjerrigknark.com/bilder/10843-vinn_samsung_tv_verdt_ca_7_000.jpg" alt="Vinn Samsung TV verdt ca 7 000 kroner i enkel konkurranse" title="Les mer om 'Vinn Samsung TV verdt ca 7 000 kroner i enkel konkurranse'"/>
+				</a>
+				<p>I denne enkle konkurransen fra firmaet Importpris, kan du vinne en Samsung 40 Curve TV. Det eneste du må gjøre er å regi....</p>
+
+				<p><a href="//www.gjerrigknark.com/Konkurranser/TV/Vinn-Samsung-TV-verdt-ca-7000-kroner-i-enkel-konkurranse#ref=frsto" title="Les hele artikkelen om 'Vinn Samsung TV verdt ca 7 000 kroner i enkel konkurranse'" class="readMore">Les mer</a>
+				</p>
+				</div>
+		<div class="story leftColumn">
+						<h4>				<a href="//www.gjerrigknark.com/index.php?choice=category&id=12" title="Se mer fra Gratis ting & vareprøver/Matvarer, drikke og søtsaker">Gratis ting & vareprøver</a></h4>
+				<h2><a href="//www.gjerrigknark.com/Gratis-ting-og-vareprover/Matvarer-drikke-og-sotsaker/Fa-helt-gratis-varm-drikke-og-valgfri-bakervare#ref=frsto" title="Få helt gratis varm drikke og valgfri bakervare">Få helt gratis varm drikke og valgfri bakervare</a></h2>
+				<a title="Få helt gratis varm drikke og valgfri bakervare" href="//www.gjerrigknark.com/Gratis-ting-og-vareprover/Matvarer-drikke-og-sotsaker/Fa-helt-gratis-varm-drikke-og-valgfri-bakervare#ref=frsto">
+					<img src="//www.gjerrigknark.com/bilder/10841-fa_helt_gratis_gratis_varm_dri.jpg" alt="Få helt gratis varm drikke og valgfri bakervare" title="Les mer om 'Få helt gratis varm drikke og valgfri bakervare'"/>
+				</a>
+				<p>Er du lysten på litt å drikke og spise, behøver du ikke betale noen verdens ting. Sørg for at du har Narvesen-appen inst....</p>
+
+				<p><a href="//www.gjerrigknark.com/Gratis-ting-og-vareprover/Matvarer-drikke-og-sotsaker/Fa-helt-gratis-varm-drikke-og-valgfri-bakervare#ref=frsto" title="Les hele artikkelen om 'Få helt gratis varm drikke og valgfri bakervare'" class="readMore">Les mer</a>
+				</p>
+				</div>
+		<div class="story middleColumn">
+						<h4>				<a href="//www.gjerrigknark.com/index.php?choice=category&id=105" title="Se mer fra Konkurranser/Elektriske Artikler">Konkurranser/Elektriske Artikler</a></h4>
+				<h2><a href="//www.gjerrigknark.com/Konkurranser/Elektriske-Artikler/Vinn-UE-Boom-2-tradlos-hoyttaler-verdt-1690-kroner#ref=frsto" title="Vinn UE Boom 2 trådløs høyttaler verdt 1 690 kroner">Vinn UE Boom 2 trådløs høyttaler verdt 1 690 kroner</a></h2>
+				<a title="Vinn UE Boom 2 trådløs høyttaler verdt 1 690 kroner" href="//www.gjerrigknark.com/Konkurranser/Elektriske-Artikler/Vinn-UE-Boom-2-tradlos-hoyttaler-verdt-1690-kroner#ref=frsto">
+					<img src="//www.gjerrigknark.com/bilder/10840-vinn_ue_boom_2_tradlos_hoyttal.jpg" alt="Vinn UE Boom 2 trådløs høyttaler verdt 1 690 kroner" title="Les mer om 'Vinn UE Boom 2 trådløs høyttaler verdt 1 690 kroner'"/>
+				</a>
+				<p>I denne enkle konkurransen (jeg har svaret!) kan du vinne en UE Boom 2 trådløs høyttaler verdt 1 690 kroner ved å svare ....</p>
+
+				<p><a href="//www.gjerrigknark.com/Konkurranser/Elektriske-Artikler/Vinn-UE-Boom-2-tradlos-hoyttaler-verdt-1690-kroner#ref=frsto" title="Les hele artikkelen om 'Vinn UE Boom 2 trådløs høyttaler verdt 1 690 kroner'" class="readMore">Les mer</a>
+				</p>
+				</div>
+		<div class="story leftColumn">
+						<h4>				<a href="//www.gjerrigknark.com/index.php?choice=category&id=369" title="Se mer fra Gjerrigknarkens blogg/Temaspalter og gjesteinnlegg">Gjerrigknarkens blogg</a></h4>
+				<h2><a href="//www.gjerrigknark.com/Gjerrigknarkens-blogg/Hvordan-spare-penger-pa-McDonalds-og-Burger-King#ref=frsto" title="Hvordan spare penger på McDonald's og Burger King?">Hvordan spare penger på McDonald's og Burger King?</a></h2>
+				<a title="Hvordan spare penger på McDonald's og Burger King?" href="//www.gjerrigknark.com/Gjerrigknarkens-blogg/Hvordan-spare-penger-pa-McDonalds-og-Burger-King#ref=frsto">
+					<img src="//www.gjerrigknark.com/bilder/10839-hvordan_spare_penger_pa_mcdona.jpg" alt="Hvordan spare penger på McDonald's og Burger King?" title="Les mer om 'Hvordan spare penger på McDonald's og Burger King?'"/>
+				</a>
+				<p>Fast food er ikke noe man bør ha som hverdagsmat, men mange setter pris en kjapp matbit på McDonald's og Burger King i n....</p>
+
+				<p><a href="//www.gjerrigknark.com/Gjerrigknarkens-blogg/Hvordan-spare-penger-pa-McDonalds-og-Burger-King#ref=frsto" title="Les hele artikkelen om 'Hvordan spare penger på McDonald's og Burger King?'" class="readMore">Les mer</a>
+				</p>
+				</div>
+		<div class="story middleColumn">
+						<h4>				<a href="//www.gjerrigknark.com/index.php?choice=category&id=11" title="Se mer fra Gratis ting & vareprøver/Kroppspleie og parfyme">Gratis ting & vareprøver</a></h4>
+				<h2><a href="//www.gjerrigknark.com/Gratis-ting-og-vareprover/Kroppspleie-og-parfyme/Fa-helt-gratis-vareprove-av-antirynkeserum-Vichy-Liftactive#ref=frsto" title="Få helt gratis vareprøve av antirynkeserum Vichy Liftactive">Få helt gratis vareprøve av antirynkeserum Vichy Liftactive</a></h2>
+				<a title="Få helt gratis vareprøve av antirynkeserum Vichy Liftactive" href="//www.gjerrigknark.com/Gratis-ting-og-vareprover/Kroppspleie-og-parfyme/Fa-helt-gratis-vareprove-av-antirynkeserum-Vichy-Liftactive#ref=frsto">
+					<img src="//www.gjerrigknark.com/bilder/10836-fa_helt_gratis_vareprove_av_an.jpg" alt="Få helt gratis vareprøve av antirynkeserum Vichy Liftactive" title="Les mer om 'Få helt gratis vareprøve av antirynkeserum Vichy Liftactive'"/>
+				</a>
+				<p>Er du kjapp, kan du få tilsendt gratis prøve av serumet til Vichy - Liftactiv Serum 10 Supreme. Om du blir evig ung, vit....</p>
+
+				<p><a href="//www.gjerrigknark.com/Gratis-ting-og-vareprover/Kroppspleie-og-parfyme/Fa-helt-gratis-vareprove-av-antirynkeserum-Vichy-Liftactive#ref=frsto" title="Les hele artikkelen om 'Få helt gratis vareprøve av antirynkeserum Vichy Liftactive'" class="readMore">Les mer</a>
+				</p>
+				</div>
+		<div class="story leftColumn">
+						<h4>				<a href="//www.gjerrigknark.com/index.php?choice=category&id=363" title="Se mer fra Gode tilbud & kampanjer/Interiør og kjøkken">Gode tilbud & kampanjer</a></h4>
+				<h2><a href="//www.gjerrigknark.com/Gode-tilbud-og-kampanjer/Interior-og-kjokken/Fa-japansk-kokke-og-fileteringskniv-verdt-429-kroner#ref=frsto" title="Få japansk kokke- og fileteringskniv verdt 429 kroner">Få japansk kokke- og fileteringskniv verdt 429 kroner</a></h2>
+				<a title="Få japansk kokke- og fileteringskniv verdt 429 kroner" href="//www.gjerrigknark.com/Gode-tilbud-og-kampanjer/Interior-og-kjokken/Fa-japansk-kokke-og-fileteringskniv-verdt-429-kroner#ref=frsto">
+					<img src="//www.gjerrigknark.com/bilder/10842-fa_japansk_kokke_og_filetering.jpg" alt="Få japansk kokke- og fileteringskniv verdt 429 kroner" title="Les mer om 'Få japansk kokke- og fileteringskniv verdt 429 kroner'"/>
+				</a>
+				<p>Praktisk velkomstgave når du bestiller 2 utgaver av National Geographic for kr 49,50. Du får to kniver, en kokkkekniv ti....</p>
+
+				<p><a href="//www.gjerrigknark.com/Gode-tilbud-og-kampanjer/Interior-og-kjokken/Fa-japansk-kokke-og-fileteringskniv-verdt-429-kroner#ref=frsto" title="Les hele artikkelen om 'Få japansk kokke- og fileteringskniv verdt 429 kroner'" class="readMore">Les mer</a>
+				</p>
+				</div>
+		<div class="story middleColumn">
+						<h4>				<a href="//www.gjerrigknark.com/index.php?choice=category&id=366" title="Se mer fra Gode tilbud & kampanjer/Kroppspleie">Gode tilbud & kampanjer/Kroppspleie</a></h4>
+				<h2><a href="//www.gjerrigknark.com/Gode-tilbud-og-kampanjer/Kroppspleie/Fa-Dermalogica-eksfolierende-skrubb-verdt-645-kroner#ref=frsto" title="Få Dermalogica eksfolierende skrubb verdt 645 kroner">Få Dermalogica eksfolierende skrubb verdt 645 kroner</a></h2>
+				<a title="Få Dermalogica eksfolierende skrubb verdt 645 kroner" href="//www.gjerrigknark.com/Gode-tilbud-og-kampanjer/Kroppspleie/Fa-Dermalogica-eksfolierende-skrubb-verdt-645-kroner#ref=frsto">
+					<img src="//www.gjerrigknark.com/bilder/10830-fa_dermalogica_eksfolierende_s.jpg" alt="Få Dermalogica eksfolierende skrubb verdt 645 kroner" title="Les mer om 'Få Dermalogica eksfolierende skrubb verdt 645 kroner'"/>
+				</a>
+				<p>Trenger du en eksfolierende skrubb til ansiktet, kan du sjekke ut dette tilbudet. Bestiller du 3 utgaver av I FORM for 1....</p>
+
+				<p><a href="//www.gjerrigknark.com/Gode-tilbud-og-kampanjer/Kroppspleie/Fa-Dermalogica-eksfolierende-skrubb-verdt-645-kroner#ref=frsto" title="Les hele artikkelen om 'Få Dermalogica eksfolierende skrubb verdt 645 kroner'" class="readMore">Les mer</a>
+				</p>
+				</div>
+		<div class="story leftColumn">
+						<h4>				<a href="//www.gjerrigknark.com/index.php?choice=category&id=108" title="Se mer fra Konkurranser/Reiser">Konkurranser/Reiser</a></h4>
+				<h2><a href="//www.gjerrigknark.com/Konkurranser/Reiser/Vinn-et-reisegavekort-fra-Albatros-pa-2-500-kr#ref=frsto" title="Vinn et reisegavekort fra Albatros på 2 500 kr">Vinn et reisegavekort fra Albatros på 2 500 kr</a></h2>
+				<a title="Vinn et reisegavekort fra Albatros på 2 500 kr" href="//www.gjerrigknark.com/Konkurranser/Reiser/Vinn-et-reisegavekort-fra-Albatros-pa-2-500-kr#ref=frsto">
+					<img src="//www.gjerrigknark.com/bilder/10829-vinn_et_reisegavekort_fra_alba.jpg" alt="Vinn et reisegavekort fra Albatros på 2 500 kr" title="Les mer om 'Vinn et reisegavekort fra Albatros på 2 500 kr'"/>
+				</a>
+				<p>Dersom du registrerer deg for å motta nyhetsbrevet til Albatros Travel, deltar du automatisk i en månedlig loddtrekning ....</p>
+
+				<p><a href="//www.gjerrigknark.com/Konkurranser/Reiser/Vinn-et-reisegavekort-fra-Albatros-pa-2-500-kr#ref=frsto" title="Les hele artikkelen om 'Vinn et reisegavekort fra Albatros på 2 500 kr'" class="readMore">Les mer</a>
+				</p>
+				</div>
+		<div class="story middleColumn">
+						<h4>				<a href="//www.gjerrigknark.com/index.php?choice=category&id=369" title="Se mer fra Gjerrigknarkens blogg/Temaspalter og gjesteinnlegg">Gjerrigknarkens blogg</a></h4>
+				<h2><a href="//www.gjerrigknark.com/Gjerrigknarkens-blogg/Hvordan-fyller-luringer-bensin-hosten-2016#ref=frsto" title="Hvordan fyller luringer bensin høsten 2016?">Hvordan fyller luringer bensin høsten 2016?</a></h2>
+				<a title="Hvordan fyller luringer bensin høsten 2016?" href="//www.gjerrigknark.com/Gjerrigknarkens-blogg/Hvordan-fyller-luringer-bensin-hosten-2016#ref=frsto">
+					<img src="//www.gjerrigknark.com/bilder/10823-hvordan_fyller_luringer_bensin.jpg" alt="Hvordan fyller luringer bensin høsten 2016?" title="Les mer om 'Hvordan fyller luringer bensin høsten 2016?'"/>
+				</a>
+				<p>Vilkårene for bensinkort endrer seg stadig vekk, og det er viktig å være oppdatert for å spare mest mulig på drivstoff. ....</p>
+
+				<p><a href="//www.gjerrigknark.com/Gjerrigknarkens-blogg/Hvordan-fyller-luringer-bensin-hosten-2016#ref=frsto" title="Les hele artikkelen om 'Hvordan fyller luringer bensin høsten 2016?'" class="readMore">Les mer</a>
+				</p>
+				</div>
+		<div class="story leftColumn">
+						<h4>				<a href="//www.gjerrigknark.com/index.php?choice=category&id=363" title="Se mer fra Gode tilbud & kampanjer/Interiør og kjøkken">Gode tilbud & kampanjer</a></h4>
+				<h2><a href="//www.gjerrigknark.com/Gode-tilbud-og-kampanjer/Interior-og-kjokken/Fa-krystallvase-fra-Frederik-Bagger#ref=frsto" title="Få krystallvase fra Frederik Bagger">Få krystallvase fra Frederik Bagger</a></h2>
+				<a title="Få krystallvase fra Frederik Bagger" href="//www.gjerrigknark.com/Gode-tilbud-og-kampanjer/Interior-og-kjokken/Fa-krystallvase-fra-Frederik-Bagger#ref=frsto">
+					<img src="//www.gjerrigknark.com/bilder/10825-fa_krystallvase_fra_frederik_b.jpg" alt="Få krystallvase fra Frederik Bagger" title="Les mer om 'Få krystallvase fra Frederik Bagger'"/>
+				</a>
+				<p>Du får den populære krystallvasen til Frederik Bagger dersom du bestiller 5 utgaver av interiør-magasinet Bonytt for 199....</p>
+
+				<p><a href="//www.gjerrigknark.com/Gode-tilbud-og-kampanjer/Interior-og-kjokken/Fa-krystallvase-fra-Frederik-Bagger#ref=frsto" title="Les hele artikkelen om 'Få krystallvase fra Frederik Bagger'" class="readMore">Les mer</a>
+				</p>
+				</div>
+		<div class="story middleColumn">
+						<h4>				<a href="//www.gjerrigknark.com/index.php?choice=category&id=323" title="Se mer fra Tjene penger/Øvrige muligheter">Tjene penger/Øvrige muligheter</a></h4>
+				<h2><a href="//www.gjerrigknark.com/Tjene-penger/Ovrige-muligheter/Hjelp-Posten-Norge-med-a-bli-bedre-og-tjen-penger-samtidig#ref=frsto" title="Hjelp Posten med å bli bedre - og tjen penger samtidig!">Hjelp Posten med å bli bedre - og tjen penger samtidig!</a></h2>
+				<a title="Hjelp Posten med å bli bedre - og tjen penger samtidig!" href="//www.gjerrigknark.com/Tjene-penger/Ovrige-muligheter/Hjelp-Posten-Norge-med-a-bli-bedre-og-tjen-penger-samtidig#ref=frsto">
+					<img src="//www.gjerrigknark.com/bilder/6227-hjelp_posten_norge_og_tjen_pen.jpg" alt="Hjelp Posten med å bli bedre - og tjen penger samtidig!" title="Les mer om 'Hjelp Posten med å bli bedre - og tjen penger samtidig!'"/>
+				</a>
+				<p>Posten jobber hele tiden for å bli bedre i sine tjenester for oss postkunder. Men visste du også at du faktisk kan hjelp....</p>
+
+				<p><a href="//www.gjerrigknark.com/Tjene-penger/Ovrige-muligheter/Hjelp-Posten-Norge-med-a-bli-bedre-og-tjen-penger-samtidig#ref=frsto" title="Les hele artikkelen om 'Hjelp Posten med å bli bedre - og tjen penger samtidig!'" class="readMore">Les mer</a>
+				</p>
+				</div>
+		<div class="story leftColumn">
+						<h4>				<a href="//www.gjerrigknark.com/index.php?choice=category&id=11" title="Se mer fra Gratis ting & vareprøver/Kroppspleie og parfyme">Gratis ting & vareprøver</a></h4>
+				<h2><a href="//www.gjerrigknark.com/Gratis-ting-og-vareprover/Kroppspleie-og-parfyme/Fa-HELT-GRATIS-Vaseline-dusjsape-handkrem-eller-lotion#ref=frsto" title="Få HELT GRATIS dusjsåpe, håndkrem eller lotion fra Vaseline">Få HELT GRATIS dusjsåpe, håndkrem eller lotion fra Vaseline</a></h2>
+				<a title="Få HELT GRATIS dusjsåpe, håndkrem eller lotion fra Vaseline" href="//www.gjerrigknark.com/Gratis-ting-og-vareprover/Kroppspleie-og-parfyme/Fa-HELT-GRATIS-Vaseline-dusjsape-handkrem-eller-lotion#ref=frsto">
+					<img src="//www.gjerrigknark.com/bilder/10810-fa_helt_gratis_vaseline_dusjsa.jpg" alt="Få HELT GRATIS dusjsåpe, håndkrem eller lotion fra Vaseline" title="Les mer om 'Få HELT GRATIS dusjsåpe, håndkrem eller lotion fra Vaseline'"/>
+				</a>
+				<p>Kjøper du en Vaseline dusjsåpe, håndkrem eller body lotion, gir firmaet deg pengene tilbake - og portoen attpåtil. Derme....</p>
+
+				<p><a href="//www.gjerrigknark.com/Gratis-ting-og-vareprover/Kroppspleie-og-parfyme/Fa-HELT-GRATIS-Vaseline-dusjsape-handkrem-eller-lotion#ref=frsto" title="Les hele artikkelen om 'Få HELT GRATIS dusjsåpe, håndkrem eller lotion fra Vaseline'" class="readMore">Les mer</a>
+				</p>
+				</div>
+		<div class="story middleColumn">
+						<h4>				<a href="//www.gjerrigknark.com/index.php?choice=category&id=369" title="Se mer fra Gjerrigknarkens blogg/Temaspalter og gjesteinnlegg">Gjerrigknarkens blogg</a></h4>
+				<h2><a href="//www.gjerrigknark.com/Gjerrigknarkens-blogg/13-tips-til-enkel-stromsparing-i-hjemmet-som-alle-kan-gjore-og-som-ikke-koster-skjorta#ref=frsto" title="13 tips til enkel strømsparing i hjemmet - som alle kan gjøre og som ikke koster skjorta">13 tips til enkel strømsparing i hjemmet - som alle kan gjøre og som ikke koster skjorta</a></h2>
+				<a title="13 tips til enkel strømsparing i hjemmet - som alle kan gjøre og som ikke koster skjorta" href="//www.gjerrigknark.com/Gjerrigknarkens-blogg/13-tips-til-enkel-stromsparing-i-hjemmet-som-alle-kan-gjore-og-som-ikke-koster-skjorta#ref=frsto">
+					<img src="//www.gjerrigknark.com/bilder/10809-13_tips_til_enkel_stromsparing.jpg" alt="13 tips til enkel strømsparing i hjemmet - som alle kan gjøre og som ikke koster skjorta" title="Les mer om '13 tips til enkel strømsparing i hjemmet - som alle kan gjøre og som ikke koster skjorta'"/>
+				</a>
+				<p>Når det blir kaldere ute, bruker vi mer strøm i hjemmet vårt. Du tror kanskje ikke det er mange kronene å hente på å bli....</p>
+
+				<p><a href="//www.gjerrigknark.com/Gjerrigknarkens-blogg/13-tips-til-enkel-stromsparing-i-hjemmet-som-alle-kan-gjore-og-som-ikke-koster-skjorta#ref=frsto" title="Les hele artikkelen om '13 tips til enkel strømsparing i hjemmet - som alle kan gjøre og som ikke koster skjorta'" class="readMore">Les mer</a>
+				</p>
+				</div>
+		<div class="story leftColumn">
+						<h4>				<a href="//www.gjerrigknark.com/index.php?choice=category&id=337" title="Se mer fra Rabatter & rabattkoder/Diverse">Rabatter & rabattkoder/Diverse</a></h4>
+				<h2><a href="//www.gjerrigknark.com/Rabatter-og-rabattkoder/Diverse/Fa-bonuspoeng-pa-alt-du-handler-hos-Nille#ref=frsto" title="Få bonuspoeng på alt du handler hos Nille">Få bonuspoeng på alt du handler hos Nille</a></h2>
+				<a title="Få bonuspoeng på alt du handler hos Nille" href="//www.gjerrigknark.com/Rabatter-og-rabattkoder/Diverse/Fa-bonuspoeng-pa-alt-du-handler-hos-Nille#ref=frsto">
+					<img src="//www.gjerrigknark.com/bilder/10805-nillepoeng.jpg" alt="Få bonuspoeng på alt du handler hos Nille" title="Les mer om 'Få bonuspoeng på alt du handler hos Nille'"/>
+				</a>
+				<p>Dersom du handler varer hos Nille (og det gjør jo mange av oss), ert det jo kjekt at du samler bonuspoeng på alle dine k....</p>
+
+				<p><a href="//www.gjerrigknark.com/Rabatter-og-rabattkoder/Diverse/Fa-bonuspoeng-pa-alt-du-handler-hos-Nille#ref=frsto" title="Les hele artikkelen om 'Få bonuspoeng på alt du handler hos Nille'" class="readMore">Les mer</a>
+				</p>
+				</div>
+		<div class="story middleColumn">
+						<h4>				<a href="//www.gjerrigknark.com/index.php?choice=category&id=107" title="Se mer fra Konkurranser/Penger og Gavekort">Konkurranser/Penger og Gavekort</a></h4>
+				<h2><a href="//www.gjerrigknark.com/Konkurranser/Penger-og-Gavekort/Vinn-gavekort-verdt-5-000-kroner-hos-Stormberg#ref=frsto" title="Vinn gavekort verdt 5 000 kroner hos Stormberg">Vinn gavekort verdt 5 000 kroner hos Stormberg</a></h2>
+				<a title="Vinn gavekort verdt 5 000 kroner hos Stormberg" href="//www.gjerrigknark.com/Konkurranser/Penger-og-Gavekort/Vinn-gavekort-verdt-5-000-kroner-hos-Stormberg#ref=frsto">
+					<img src="//www.gjerrigknark.com/bilder/10807-vinn_gavekort_verdt_5_000_kron.jpg" alt="Vinn gavekort verdt 5 000 kroner hos Stormberg" title="Les mer om 'Vinn gavekort verdt 5 000 kroner hos Stormberg'"/>
+				</a>
+				<p>Dersom du melder deg på i denne enkle konkurransen, kan du vinne et gavekort verdt 5 000 kroner fra Stormberg. Kjekt, fo....</p>
+
+				<p><a href="//www.gjerrigknark.com/Konkurranser/Penger-og-Gavekort/Vinn-gavekort-verdt-5-000-kroner-hos-Stormberg#ref=frsto" title="Les hele artikkelen om 'Vinn gavekort verdt 5 000 kroner hos Stormberg'" class="readMore">Les mer</a>
+				</p>
+				</div>
+		<div class="story leftColumn">
+						<h4>				<a href="//www.gjerrigknark.com/index.php?choice=category&id=379" title="Se mer fra Sparetips & triks/Student">Sparetips & triks/Student</a></h4>
+				<h2><a href="//www.gjerrigknark.com/Sparetips-og-triks/Student/HOLD-belonner-studenter-som-tar-pause-fra-mobilen#ref=frsto" title="HOLD belønner studenter som tar pause fra mobilen">HOLD belønner studenter som tar pause fra mobilen</a></h2>
+				<a title="HOLD belønner studenter som tar pause fra mobilen" href="//www.gjerrigknark.com/Sparetips-og-triks/Student/HOLD-belonner-studenter-som-tar-pause-fra-mobilen#ref=frsto">
+					<img src="//www.gjerrigknark.com/bilder/10786-hold_belonner_studenter_som_ta.jpg" alt="HOLD belønner studenter som tar pause fra mobilen" title="Les mer om 'HOLD belønner studenter som tar pause fra mobilen'"/>
+				</a>
+				<p>Laster du ned Hold-appen og aktiverer den når du er på studieplassen, kan du samle poeng for hvert 20. minutt du ikke br....</p>
+
+				<p><a href="//www.gjerrigknark.com/Sparetips-og-triks/Student/HOLD-belonner-studenter-som-tar-pause-fra-mobilen#ref=frsto" title="Les hele artikkelen om 'HOLD belønner studenter som tar pause fra mobilen'" class="readMore">Les mer</a>
+				</p>
+				</div>
+		<div class="story middleColumn">
+						<h4>				<a href="//www.gjerrigknark.com/index.php?choice=category&id=173" title="Se mer fra Gratis ting & vareprøver/Aviser, magasiner og blader">Gratis ting & vareprøver</a></h4>
+				<h2><a href="//www.gjerrigknark.com/Gratis-ting-og-vareprover/Aviser-magasiner-og-blader/Fa-2-utgaver-av-avisen-Friheten-helt-gratis#ref=frsto" title="Få 2 utgaver av avisen Friheten helt gratis">Få 2 utgaver av avisen Friheten helt gratis</a></h2>
+				<a title="Få 2 utgaver av avisen Friheten helt gratis" href="//www.gjerrigknark.com/Gratis-ting-og-vareprover/Aviser-magasiner-og-blader/Fa-2-utgaver-av-avisen-Friheten-helt-gratis#ref=frsto">
+					<img src="//www.gjerrigknark.com/bilder/10785-fa_2_utgaver_av_avisen_frihete.jpg" alt="Få 2 utgaver av avisen Friheten helt gratis" title="Les mer om 'Få 2 utgaver av avisen Friheten helt gratis'"/>
+				</a>
+				<p>I dette tilbudet kan du få to utgaver av avisen Friheten helt uforpliktende. Avisen eies av Norges Kommunistiske Parti o....</p>
+
+				<p><a href="//www.gjerrigknark.com/Gratis-ting-og-vareprover/Aviser-magasiner-og-blader/Fa-2-utgaver-av-avisen-Friheten-helt-gratis#ref=frsto" title="Les hele artikkelen om 'Få 2 utgaver av avisen Friheten helt gratis'" class="readMore">Les mer</a>
+				</p>
+				</div>
+	</div>
+
+
+
+
+</div>
+</div>
+		</td>
+	</tr>
+</table>
+
+
+
+
+
+<div style="width:850px;padding:0;margin-bottom:30px;margin-left:200px;">
+	<h2 style="margin-bottom:10px;">Har du kommet ned hit kan du jo ta en titt p&aring; en av mine mange <a target="_blank" href="//www.youtube.com/channel/UCz1ngyXRbPTS2-mlShtDl5g/videos">Youtube-videoer</a>:</h2>
+	<div style="width:250px;height:250px;padding:5px;padding-top:0;float:left;clear:none;display:inline-block;padding-bottom:20px;padding-right:20px;">
+				<object width="250" height="221"><param name="movie" value="//www.youtube.com/v/Z8XvTH26G8U"></param><param name="wmode" value="transparent"></param><embed src="//www.youtube.com/v/Z8XvTH26G8U" type="application/x-shockwave-flash" wmode="transparent" width="250" height="221"></embed></object>
+				<a href="//www.youtube.com/watch?v=Z8XvTH26G8U" target="_blank">Gjerrigknarkens julegavetips: bokklubbgaver</a>				
+			  </div>
+			<div style="width:250px;height:250px;padding:5px;padding-top:0;float:left;clear:none;display:inline-block;padding-bottom:20px;padding-right:20px;">
+				<object width="250" height="221"><param name="movie" value="//www.youtube.com/v/PMUmJ-zL2ak"></param><param name="wmode" value="transparent"></param><embed src="//www.youtube.com/v/PMUmJ-zL2ak" type="application/x-shockwave-flash" wmode="transparent" width="250" height="221"></embed></object>
+				<a href="//www.youtube.com/watch?v=PMUmJ-zL2ak" target="_blank">Gjerrigknarken vasker med gratis vaskemiddel</a>				
+			  </div>
+			<div style="width:250px;height:250px;padding:5px;padding-top:0;float:left;clear:none;display:inline-block;padding-bottom:20px;padding-right:20px;">
+				<object width="250" height="221"><param name="movie" value="//www.youtube.com/v/g27D0K_m8Pc"></param><param name="wmode" value="transparent"></param><embed src="//www.youtube.com/v/g27D0K_m8Pc" type="application/x-shockwave-flash" wmode="transparent" width="250" height="221"></embed></object>
+				<a href="//www.youtube.com/watch?v=g27D0K_m8Pc" target="_blank">Gjerrigknarkens guide til knekkebrød - hva skal du spise?</a>				
+			  </div>
+				<br><br>
+</div>
+
+
+
+
+
+	<script type="text/javascript">
+	$(function() {
+
+		$("#registerUserDialog").dialog({
+			bgiframe: true,
+			autoOpen: false,
+			height: 350,
+			width: 470,
+			modal: true,
+			open: function(event, ui) {
+												$("#registerUserDialog").html('<span class="loading">Laster skjema...</span>');
+
+												$.post("../../../../requests/request.php", {choice: "registerform"},
+						  function(data){
+							$("#registerUserDialog").html(data);
+						  });
+			}
+		});
+	});
+	</script>
+
+<div style="display: none;" id="registerUserDialog" class="dialog" title="<img src='//www.gjerrigknark.com/images/logo_16x16.gif'/> Opprett konto p&aring; Gjerrigknark.com">
+	</div>
+
+
+	<script type="text/javascript">
+	$(function() {
+
+		$("#forgotPasswordDialog").dialog({
+			bgiframe: true,
+			autoOpen: false,
+			height: 310,
+			width: 400,
+			modal: true,
+			open: function(event, ui) {
+												$("#forgotPasswordDialog").html('<span class="loading">Laster skjema...</span>');
+
+												$.post("../../../../requests/request.php", {choice: "forgotpassword"},
+						  function(data){
+							$("#forgotPasswordDialog").html(data);
+						  });
+			}
+		});
+	});
+	</script>
+
+<div style="display: none;" id="forgotPasswordDialog" class="dialog" title="<img src='//www.gjerrigknark.com/images/logo_16x16.gif'/> Glemt passord?">
+	</div>
+
+
+
+
+
+	<script type="text/javascript">
+	$(function() {
+
+		$("#followNewsletterDialog").dialog({
+			bgiframe: true,
+			autoOpen: false,
+			height: 230,
+			width: 450,
+			modal: true
+		});
+
+
+
+		$('#follow-newsletter').click(function() {
+			$('#followNewsletterDialog').dialog('open');
+		})
+		.hover(
+			function(){
+				$(this).addClass("dialog-link-over");
+			},
+			function(){
+				$(this).removeClass("dialog-link-over");
+			}
+		).mousedown(function(){
+			$(this).addClass("ui-state-active");
+		})
+		.mouseup(function(){
+				$(this).removeClass("ui-state-active");
+		});
+
+	});
+	</script>
+
+<div id="followNewsletterDialog" class="dialog" title="Gjerrigknarkens Menighetsblad" style="display:none;">
+	<img title="Gjerrigknarkens Menighetsblad" src="//www.gjerrigknark.com/images/gjerrigknarkens_menighetsblad.gif" align="left"/>
+	Gjerrigknarkens Menighetsblad sender jeg ut en til to ganger per uke, og det inneholder de aller beste gratistipsene samt &oslash;vrige godbiter. I tillegg kommer det med jevne mellomrom overraskelser til mottakerne!
+	<div style="margin-top: 15px;">
+				<form id="newsForm">
+			<input name="choice" value="newsletterSubscribe" type="hidden"/>
+
+			<span id="newsSubscribeFields">
+			<b>Epostadresse for p&aring;melding:</b><br/>
+				<input onfocus="if($('#emailSubscribe').val() == 'Din epostadresse'){$('#emailSubscribe').val('')}" style="width: 245px;" class="ui-corner-all" name="emailSubscribe" id="emailSubscribe" value="Din epostadresse" type="text"/>
+				<input class="ui-corner-all" onclick="$('#newsletterMsg').html('');$('#emailUnsubscribe').val('');$.post('../../../../requests/request.php',$('#newsForm').serialize(),function(data){if(data == 1){$('#newsSubscribeFields').html('<b>Vellykket p&aring;melding! Du st&aring;r n&aring; p&aring; min eksklusive mottakerliste!.</b>')}else{$('#newsletterMsg').html(data);}})" value="Meld p&aring;" type="button"/>
+			</span>
+
+			<span id="newsUnsubscribeFields" style="display:none;">
+			<b>Epostadresse for avmelding:</b><br/>
+				<input  onfocus="if($('#emailUnsubscribe').val() == 'Din epostadresse'){$('#emailUnsubscribe').val('')}" style="width: 245px;" class="ui-corner-all" name="emailUnsubscribe" id="emailUnsubscribe" value="Din epostadresse" type="text"/>
+				<input class="ui-corner-all" onclick="$('#newsletterMsg').html('');$('#emailSubscribe').val('');$.post('../../../../requests/request.php',$('#newsForm').serialize(),function(data){if(data == 1){$('#newsUnsubscribeFields').html('<b>Vellykket avmelding!</b>');}else{$('#newsletterMsg').html(data);}})" value="Avmeld" type="button"/>
+			</span>
+
+			<span id="newsletterMsg" style="color:red;font-size: 9px;margin-top: 5px;margin-bottom:15px;"></span>
+
+			<span style="display: inline-block;float: right;margin-right: 10px;font-size: 10px;margin-top: 15px;">
+				Menighetsbladet som <a title="Gjerrigknarkens Menighetsblad" target="blank" href="http://gjerrigknarkepost.com/rss.php?q=8da1f92c7b9fb8502a410e51568559ca"> RSS-str&oslash;m</a>
+				<!--|
+				<a id="newsSubLink" onclick="$('#newsletterMsg').html('');$('#newsSubLink').toggle();$('#newsUnsubLink').toggle();$('#newsSubscribeFields').toggle();$('#newsUnsubscribeFields').toggle();">Unsubscription</a>
+				<a id="newsUnsubLink" style="display: none;" onclick="$('#newsletterMsg').html('');$('#newsSubLink').toggle();$('#newsUnsubLink').toggle();$('#newsSubscribeFields').toggle();$('#newsUnsubscribeFields').toggle();">Subscription</a>-->
+			</span>
+		</form>
+			</div>
+</div>
+
+
+	<script type="text/javascript">
+	$(function() {
+
+		$("#followRSSDialog").dialog({
+			bgiframe: true,
+			autoOpen: false,
+			height: 300,
+			modal: true
+		});
+
+
+
+		/*$('#follow-rss').click(function() {
+			$('#followRSSDialog').dialog('open');
+		})
+		.hover(
+			function(){
+				$(this).addClass("dialog-link-over");
+			},
+			function(){
+				$(this).removeClass("dialog-link-over");
+			}
+		).mousedown(function(){
+			$(this).addClass("ui-state-active");
+		})
+		.mouseup(function(){
+				$(this).removeClass("ui-state-active");
+		});*/
+
+	});
+	</script>
+
+<div style="display: none;" id="followRSSDialog" class="dialog" title="F&oslash;lg Gjerrigknark.com RSS-str&oslash;mmen">
+	</div>
+
+
+	<script type="text/javascript">
+	$(function() {
+
+		$("#setHomepageDialog").dialog({
+			bgiframe: true,
+			autoOpen: false,
+			height: 300,
+			modal: true
+		});
+
+
+
+		$('#set-homepage').click(function() {
+			$('#setHomepageDialog').dialog('open');
+		})
+		.hover(
+			function(){
+				$(this).addClass("dialog-link-over");
+			},
+			function(){
+				$(this).removeClass("dialog-link-over");
+			}
+		).mousedown(function(){
+			$(this).addClass("ui-state-active");
+		})
+		.mouseup(function(){
+				$(this).removeClass("ui-state-active");
+		});
+
+	});
+	</script>
+
+<div style="display: none;" id="setHomepageDialog" class="dialog" title="Velg Gjerrigknark.com som startside">
+	<p id="validateTips">Du m&aring; gj&oslash;re et gyldig valg.</p>
+
+	<form>
+	<fieldset>
+		<label for="name">Ditt navn</label>
+		<input type="text" name="name" id="name" class="text ui-widget-content ui-corner-all" />
+		<label for="email">E-post</label>
+		<input type="text" name="email" id="email" value="" class="text ui-widget-content ui-corner-all" />
+		<label for="password">Passord</label>
+		<input type="password" name="password" id="password" value="" class="text ui-widget-content ui-corner-all" />
+	</fieldset>
+	</form>
+</div>
+
+
+
+	<script type="text/javascript">
+	$(function() {
+
+		function checkRegexp(o,regexp,n) {
+
+			if ( !( regexp.test( o.val() ) ) ) {
+				o.addClass('ui-state-error');
+				updateTips(n);
+				return false;
+			} else {
+				return true;
+			}
+
+		}
+
+		$("#addFavouritesDialog").dialog({
+			bgiframe: true,
+			autoOpen: false,
+			height: 300,
+			modal: true
+		});
+
+
+
+		/*$('#add-favourites').click(function() {
+			$('#addFavouritesDialog').dialog('open');
+		})
+		.hover(
+			function(){
+				$(this).addClass("dialog-link-over");
+			},
+			function(){
+				$(this).removeClass("dialog-link-over");
+			}
+		).mousedown(function(){
+			$(this).addClass("ui-state-active");
+		})
+		.mouseup(function(){
+				$(this).removeClass("ui-state-active");
+		});*/
+
+	});
+	</script>
+
+<div style="display: none;" id="addFavouritesDialog" class="dialog" title="Legg til  Gjerrigknark.com i favoritter">
+	<p id="validateTips">You have to make a valid choice.</p>
+
+	<form>
+	<fieldset>
+		<label for="name">Ditt navn</label>
+		<input type="text" name="name" id="name" class="text ui-widget-content ui-corner-all" />
+		<label for="email">E-post</label>
+		<input type="text" name="email" id="email" value="" class="text ui-widget-content ui-corner-all" />
+		<label for="password">Passord</label>
+		<input type="password" name="password" id="password" value="" class="text ui-widget-content ui-corner-all" />
+	</fieldset>
+	</form>
+</div>
+
+
+
+
+
+<div style="margin-left:210px;margin-top:15px;float:left;clear:both;">
+	
+	
+	<!--<script type="text/javascript">
+	var uri = 'http://impno.tradedoubler.com/imp?type(img)g(19133630)a(1401538)' + new String (Math.random()).substring (2, 11);
+	document.write('<a href="http://clk.tradedoubler.com/click?p=196138&a=1401538&g=19133630" target="_BLANK"><img src="'+uri+'" border=0></a>');
+	</script>-->
+			<!--<a href="http://tracking.euroads.no/system/tracking.php?sid=3&cpid=1960&adid=42814&acid=49&eatrackid=8" target="_blank"><img border="0" src="//banner.euroads.no/banner/3/1960/banner_13652.gif"></a>-->
+		<!--<iframe src="http://tracking1.euroads.no/system/showadv.php?sid=3&cpid=2028&adid=43451&acid=49&eatrackid=14123" width=768 height=150 marginwidth=0 marginheight=0 ALLOWTRANSPARENCY=true frameborder=0 scrolling=no bordercolor=#000000 hspace=0 vspace=0></iframe>-->
+			
+</div>
+
+<br><br>
+
+<div style="float:left;width:100%;min-width:1024px;clear:left;margin:0;background-color:#015b80;padding-bottom:0;">
+<!--<script type="text/javascript" src="http://ads.scandinavianadnetworks.com/57148.js?v=21"></script>-->
+<!--<a style="margin-left:205px;width:800px;" href="http://tracking.euroads.no/system/tracking.php?sid=3&cpid=2987&adid=55165&acid=49&eatrackid=8&pni=web-banner-footer" target="_blank"><img border="0" src="//banner.euroads.no/banner/3/2987/banner_21205.gif"></a>-->
+
+<!--<a style="margin-left:205px;width:800px;" rel="nofollow" href="http://secure.smartresponse-media.com/?a=12792&c=95706&s1=web-banner-bottom" target="_blank"><img src="http://impr.adservicemedia.dk/show2.php?bid=462547&media_id=4022&sub=web-banner-bottom"></a>-->
+
+<a rel="nofollow" style="margin-left:205px;width:800px;" href="http://tracking.euroads.no/system/tracking.php?sid=3&cpid=3697&adid=86067&acid=49&eatrackid=8&pni=web-banner-bottom" target="_blank"><img border="0" src="http://banner.euroads.no/banner/3/3697/banner_47771.jpg"></a>
+</div>
+
+<div style="margin-top: 0px;background-color: #015b80;width:100%;height:350px;float:left;clear:both;min-width:1024px;">
+	<div class="nolinks" style="font-weight: bold;color: white;margin-left: 150px;width: 950px;padding-top:18px;" align="center">
+			(c) Gjerrigknark.com 2000-2016 &nbsp;&nbsp;|&nbsp;&nbsp;
+			<a style="color: white;" href="/index.php?choice=terms-of-use">Betingelser for bruk</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+			<a style="color: white;" href="/index.php?choice=privacy-policy">Personvern</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+			<a style="color: white;" href="/index.php?choice=contact-us">Om siden / Kontakt meg / Presse</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+			<a style="color: white;" href="/index.php?choice=advertise">Annonsere?</a>
+
+			<a style="color: white;display:none;" href="/index.php?choice=privacy-policy">Privacy policy</a>
+			<a style="color: white;display:none;" href="/index.php?choice=terms-of-use">Terms of usage</a>
+			<a style="color: white;display:none;" href="/index.php?choice=contact-us">Contact us</a>
+	<!--</div>
+	<div style="width: 100%;margin-top:40px;background-color: #015b80;">-->
+	
+		<div style="font-weight: normal;color: white;padding-left:15px;margin-top:45px;float:left;" align="left">
+			<span style="font-size:130%;text-decoration:underline;">Jeg samarbeider med f&oslash;lgende nettsider:</span>
+			<ul style="font-size:115%margin-left:0;padding-left:0;margin-top:15px;">
+				<li style="margin-top:12px;"><img src="http://www.kredittportalen.no/img/favicon.png"> <a style="color: white;"  rel="nofollow" href="http://www.kredittportalen.no">Kredittportalen.no - smart bruk av kredittkort</a></li>
+				<li style="margin-top:12px;"><img src="http://eavisa.com/wp-content/uploads/2014/02/favicon2.png"> <a style="color: white;" rel="nofollow"  href="http://www.eavisa.com">Eavisa - virale nyheter</a></li>
+				<li style="margin-top:12px;"><img src="http://www.nyerabattkoder.no/wp-content/themes/clipper/images/favicon.ico"> <a style="color: white;" rel="nofollow"  href="http://www.nyerabattkoder.no">NyeRabattkoder - oppdaterte norske rabattkoder</a></li>
+				<li style="margin-top:12px;"><img src="http://latterkula.no/img/icon.png"> <a style="color: white;" rel="nofollow" href="http://www.latterkula.no">Latterkula - latterlig morsom humorside</a></li>
+			</ul>
+		</div>
+	
+		<div style="font-weight: normal;color: white;padding-left:15px;margin-top:45px;float:right" align="left">
+			<span style="font-size:130%;text-decoration:underline;">S&oslash;stersider i utlandet:</span>
+			<ul style="font-size:115%margin-left:0;padding-left:0;margin-top:15px;">
+				<li style="margin-top:12px;"><img src="//www.gjerrigknark.com/images/sweden.jpg"> <a style="color: white;"  rel="nofollow" href="http://www.snaljap.com">Sn&aring;lj&aring;p - Gjerrigknarken p&aring; svensk</a></li>
+				<li style="margin-top:12px;"><img src="//www.gjerrigknark.com/images/denmark.jpg"> <a style="color: white;"  rel="nofollow" href="http://www.naerigrov.com">N&aelig;rigr&oslash;v - Gjerrigknarken p&aring; dansk</a></li>
+			</ul>
+		</div>
+
+		<div style="font-weight: normal;color: white;margin-top:25px;float:right;clear:both;">
+			<a rel="nofollow" target="_blank" title="Gjerrigknark.com p&aring; Facebook" href="https://www.facebook.com/gjerrigk"><img src="/imgs/social-icons/small-32/facebook-icon.png"></a>
+			<a rel="nofollow" target="_blank" title="Gjerrigknark.com p&aring; Youtube" href="https://www.youtube.com/channel/UCz1ngyXRbPTS2-mlShtDl5g"><img src="/imgs/social-icons/small-32/youtube-icon.png"></a>
+			<a rel="nofollow" target="_blank" title="Gjerrigknark.com p&aring; Twitter" href="https://www.twitter.com/gjerrigknarken"><img src="/imgs/social-icons/small-32/twitter-icon.png"></a>
+			<a rel="nofollow"  target="_blank" title="Gjerrigknark.com p&aring; Google+" href="https://plus.google.com/+Gjerrigknark/"><img src="/imgs/social-icons/small-32/google-plus-icon.png"></a>
+			<a rel="nofollow" target="_blank" title="Gjerrigknark.com p&aring; Instagram" href="https://instagram.com/Gjerrigknarken"><img src="/imgs/social-icons/small-32/instagram-icon.png"></a>
+			<a rel="nofollow" target="_blank" title="Gjerrigknark.com p&aring; Snapchat: Brukernavn = Gjerrigknarken" href="https://www.snapchat.com/add/gjerrigknarken"><img src="/imgs/social-icons/small-32/snapchat-icon.png"></a>
+			<a rel="nofollow" target="_blank" title="Gjerrigknark.com p&aring; Pinterest" href="https://www.pinterest.com/gjerrigknarken/"><img src="/imgs/social-icons/small-32/pinterest-icon.png"></a>
+			<a rel="nofollow" target="_blank" title="RSS-str&oslash;m av Gjerrigknark.com" href="//www.gjerrigknark.com/rss.php"><img src="/imgs/social-icons/small-32/rss-icon.png"></a>
+		</div>			
+	</div>	
+</div>
+<div style="width: 100%;height: 80px;">
+&nbsp;&nbsp;&nbsp;
+</div>
+
+<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1068246437;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1068246437/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+<script type="text/javascript">
+var pwidget_config = {trackAddressBar:false, shareQuote:true, copypaste:false, defaults: {afterShare: false}, publisherKey:"ndukvf86r4d5vpp83vpc"};
+(function(){ 
+
+	 var s = document.createElement('script'); 
+
+	 s.type = 'text/javascript'; 
+
+	 s.async = true; 
+
+	 s.src = ('https:' == document.location.protocol ? 'https://s' : 'http://i') + '.po.st/share/script/post-widget.js'; 
+
+	 var x = document.getElementsByTagName('script')[0]; 
+
+	 x.parentNode.insertBefore(s, x);
+
+	 var i = new Image(); i.src = "//rs.gwallet.com/r1/pixel/x34010"+"r"+Math.round(1E7*Math.random());
+
+ })();
+
+ </script>
+
+
+
+
+
+</body></html>

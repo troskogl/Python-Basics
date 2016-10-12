@@ -1,0 +1,5 @@
+Dette er en testfil og dette er linje 1
+dette er linje 2
+dette er linje3
+dette er linjen 4
+dette er siste linje og også linje 5
