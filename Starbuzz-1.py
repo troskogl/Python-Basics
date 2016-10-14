@@ -10,7 +10,7 @@ another = "Y"
 
 def FindInText(findwhat):
 	for m in re.finditer(findwhat, text):
-		print (findwhat, m.start(), m.end())
+		print(findwhat, m.start(), m.end())
 
 
 while another == "Y" or another == "y":
