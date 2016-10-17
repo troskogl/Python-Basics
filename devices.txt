@@ -1,0 +1,2 @@
+DEVICETYPE,IP,USERNAME,PASSWORD
+cisco_ios,10.10.10.1,trond,en10gger
